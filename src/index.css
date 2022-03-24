@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100;200;300;400;500;600;700&display=swap');
+
+body {
+    font-family: 'Roboto Mono', monospace;
+    margin: 0;
+}
+
+.controls-container {
+    display: flex;
+    justify-content: center;
+}
+
+.controls {
+    margin: 2em;
+    max-width: 35rem;
+    border: 2px solid black;
+    border-radius: 10px;
+    align-items: center;
+    padding: 1em;
+    display: flex;
+}
+
+.title {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.categories-title {
+    border-right: 2px solid black;
+}
+
+.categories {
+    display: grid;
+    gap: 1px;
+    grid-template-columns: repeat(3, 1fr);
+    margin-top: 5%;
+}
+
+.category {
+    display: flex;
+    align-items: center;
+    padding-right: 1rem;
+    padding-bottom: 0.25rem;
+}
+
+.category:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.square {
+    height: 15px;
+    width: 15px;
+    border-radius: 4px;
+    margin-right: 0.25em;
+}
+
+.toggle-title {
+    text-align: center;
+    margin-left: 1em;
+}
+
+.option {
+    font-weight: 200;
+}
+
+.option:hover, .option:active {
+    text-decoration: underline;
+    font-weight: normal;
+    cursor: pointer;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+}
+
+main img {
+    width: 50%;
+    margin-bottom: 2em;
+
+}
+
+footer {
+    border-top: 2px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.authors {
+    margin: 1em 2em;
+}
+
+.authors p {
+    line-height: 50%;
+}
+
+footer img {
+    width: 4em;
+    margin-right: 2em;
+}
+
