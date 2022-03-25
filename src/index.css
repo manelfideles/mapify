@@ -61,8 +61,28 @@ body {
     margin-right: 0.25em;
 }
 
+.help {
+    display: flex;
+    align-items: center;
+}
+
+#help-tooltip {
+    margin-left: 0.5em;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    font-size: small;
+    padding-bottom: 0.05em;
+}
+
+#help-tooltip:hover {
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
 .toggle-title {
-    text-align: center;
+    text-align: left;
     margin-left: 1em;
 }
 
