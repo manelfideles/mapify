@@ -2,6 +2,7 @@
 
 body {
     font-family: 'Roboto Mono', monospace;
+    font-weight: 300;
     margin: 0;
 }
 
@@ -43,6 +44,11 @@ body {
     padding-bottom: 0.25rem;
 }
 
+.active {
+    text-decoration: underline;
+    font-weight: normal;
+}
+
 .category:hover {
     text-decoration: underline;
     cursor: pointer;
@@ -60,13 +66,8 @@ body {
     margin-left: 1em;
 }
 
-.option {
-    font-weight: 200;
-}
-
-.option:hover, .option:active {
+.option:hover {
     text-decoration: underline;
-    font-weight: normal;
     cursor: pointer;
 }
 
@@ -86,6 +87,12 @@ footer {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    font-weight: normal;
+}
+
+footer img {
+    width: 4em;
+    margin-right: 2em;
 }
 
 .authors {
@@ -94,10 +101,5 @@ footer {
 
 .authors p {
     line-height: 50%;
-}
-
-footer img {
-    width: 4em;
-    margin-right: 2em;
 }
 
