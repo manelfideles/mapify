@@ -7,8 +7,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>mapify</title>
     <link rel="stylesheet" href="index.css">
-    <script src='index.js'></script>
-    <!-- <link rel="icon" type="image/x-icon" href="../assets/M.ico"> -->
+    <!-- Load d3.js -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <!-- Load d3-cloud -->
+    <script src="https://cdn.jsdelivr.net/gh/holtzy/D3-graph-gallery@master/LIB/d3.layout.cloud.js"></script>
+    <link rel="icon" type="image/x-icon" href="../assets/favicon.ico">
 </head>
 
 <body>
@@ -76,7 +79,46 @@
 
     <!-- wordcloud here -->
     <main>
-        <img src='../assets/wordcloud-example.jpg' alt='wordcloud-example'>
+        <!-- <img class='wordcloud' src='../assets/wordcloud-example.jpg' alt='wordcloud-example'> -->
+        <div class='wordcloud-viz'>
+
+        </div>
+        <div class='details' style='display: none;'>
+            <div class='back-btn'>
+                <img src='../assets/back-arrow.svg' alt='back-arrow'>
+                <span>back</span>
+            </div>
+            <p class='clicked-word'>lorem</p>
+            <div class='graph'>
+                <span class='graph-title'>Genre Distribution</span>
+                <p class='graph-description'>
+                    This graph ellicits the genre distribution
+                    of the word you clicked.
+                    Here you can check out the top 5 genres in which
+                    the word is most frequently used.
+                </p>
+                <img class='graph-img' src='../assets/genre-distribution.jpg' alt='genre-distribution'>
+            </div>
+            <div class='graph'>
+                <span class='graph-title'>Word Characteristics</span>
+                <p class='graph-description'>
+                    This star plot illustrates energy,
+                    danceability and liveness of the word you clicked.
+                    Here you can get a feel of the mood of the word.
+                </p>
+                <img class='graph-img' src='../assets/word-characteristics.jpg' alt='word-characteristics'>
+            </div>
+            <div class='graph'>
+                <span class='graph-title'>Word Mood</span>
+                <p class='graph-description'>
+                    This section shows you the mood score of the word
+                    you clicked on. The mood score tells you if the
+                    selected word is sad, neutral or happy.
+                </p>
+                <img class='graph-img' src='../assets/mood-score.jpg' alt='mood-score'>
+            </div>
+
+        </div>
     </main>
 
     <footer>
@@ -88,6 +130,8 @@
         <img src='../assets/dei-logo.png' alt='dei-logo'>
     </footer>
 
+    <script src='index.js'></script>
 </body>
+
 
 </html>

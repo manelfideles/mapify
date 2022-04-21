@@ -15,7 +15,7 @@ body {
     margin: 2em;
     max-width: 35rem;
     border: 2px solid black;
-    border-radius: 10px;
+    border-radius: 5px;
     align-items: center;
     padding: 1em;
     display: flex;
@@ -117,7 +117,64 @@ main {
 main img {
     width: 50%;
     margin-bottom: 2em;
+}
 
+.details {
+    flex-direction: column;
+    text-align: center;
+    font-size: 0.75em;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding-left: 2em;
+    padding-right: 2em;
+    margin-bottom: 2em;
+}
+
+.back-btn {
+    display: flex;
+    width: fit-content;
+    text-align: left;
+    margin-top: 1.5em;
+    align-items: baseline;
+    margin-bottom: -2em;
+}
+
+.back-btn img {
+    width: 1.5em;
+    margin-right: 0.5em;
+}
+
+.back-btn:hover {
+    text-decoration: underline;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.clicked-word {
+    font-size: 2em;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.graph {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.graph-title {
+    font-weight: bold;
+}
+
+.graph-description {
+    width: 22em;
+    font-size: smaller;
+    margin-bottom: 2em;
+}
+
+.graph-img {
+    width: 20em;
 }
 
 footer {
@@ -140,4 +197,3 @@ footer img {
 .authors p {
     line-height: 50%;
 }
-
