@@ -112,14 +112,40 @@ body {
 main {
     display: flex;
     justify-content: center;
+    /* position: relative; */
 }
 
-main img {
-    width: 50%;
-    margin-bottom: 2em;
+.wordcloud-viz {
+    margin-bottom: 10em;
+}
+
+::-webkit-scrollbar {
+    width: 2em;
+    scrollbar-width: thin;
+}
+
+::-webkit-scrollbar-track {
+    border-radius: 100vw;
+    margin-block: 0.1em;
+}
+
+::selection {
+    color: white;
+    background: black;
+}
+
+::-webkit-scrollbar-thumb {
+    background: black;
+    border-radius: 100vw;
+    border: 0.75em solid white;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: black;
 }
 
 .details {
+    position: absolute;
     flex-direction: column;
     text-align: center;
     font-size: 0.75em;
@@ -129,11 +155,13 @@ main img {
     padding-left: 2em;
     padding-right: 2em;
     margin-bottom: 2em;
+    overflow-y: scroll;
+    height: 350px;
 }
 
 .back-btn {
-    display: flex;
     width: fit-content;
+    display: flex;
     text-align: left;
     margin-top: 1.5em;
     align-items: baseline;

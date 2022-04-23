@@ -6,7 +6,7 @@ function handleControlPanelClick(classname) {
             'click', () => {
                 if (elem.classList == 'option') {
                     elem.classList.add('active');
-                    i ? classArray[i - 1].classList.remove('active') : classArray[i + 1].classList.remove('active')
+                    i ? classArray[i - 1].classList.remove('active') : classArray[i + 1].classList.remove('active');
                 }
                 else if (elem.classList == classname) { elem.classList.add('active'); }
                 else { elem.classList.remove('active'); }
@@ -18,13 +18,22 @@ function handleControlPanelClick(classname) {
 function handleWordClick(classname) {
     const word = document.querySelector(`.${classname}`);
     word.addEventListener(
-        'click', () => {
+        'click', (event) => {
             const details = document.querySelector('.details');
-            if (details.style.display == 'flex')
-                details.setAttribute('style', 'display: none');
-            else details.setAttribute('style', 'display: flex');
+            if (details.style.display == 'none') {
+                details.setAttribute('style', 'display: flex');
+                details.children[1].innerHTML = event.target.innerHTML
+                details.setAttribute('style', `left: ${event.pageX + 25}px; top: ${event.pageY}px`);
+                //details.setAttribute('style', `top: ${event.pageY + 100}px`);
+            }
         }
     )
+}
+
+function handleBackBtnClick(event) {
+    const details = document.querySelector('.details');
+    if (details.style.display !== 'none')
+        details.setAttribute('style', 'display: none');
 }
 
 // colors
@@ -116,6 +125,15 @@ function draw(words) {
         .enter().append("text")
         .style("font-size", d => d.size)
         .style("fill", d => d.color)
+        .style('cursor', 'pointer')
+        .on('mouseover', (event, d) => {
+            d3.select(event.target).style('font-weight', 'bold');
+            d3.select(event.target).style('stroke', 'black');
+        })
+        .on('mouseout', (event, d) => {
+            d3.select(event.target).style('font-weight', 'normal');
+            d3.select(event.target).style('stroke', 'none');
+        })
         .attr("text-anchor", "middle")
         .attr("transform", (d) => { return "translate(" + [scalex(d.xpos), scaley(d.ypos)] + ")"; })
         .text(d => d.text);
@@ -123,6 +141,8 @@ function draw(words) {
 
 window.addEventListener('load', () => handleControlPanelClick('category'));
 window.addEventListener('load', () => handleControlPanelClick('option'));
-//window.addEventListener('load', () => handleWordClick('wordcloud'));
-window.addEventListener('load', () => handleWordClick('back-btn'));
+window.addEventListener('load', () => handleWordClick('wordcloud-viz'));
+const backbtn = document.querySelector('.back-btn');
+backbtn.addEventListener('click', handleBackBtnClick);
+
 
