@@ -1,7 +1,7 @@
 /**
  * This file contains all event listeners for the
  * proper interaction with all buttons.
- */
+*/
 
 
 import { dataset } from './config.js';

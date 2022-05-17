@@ -1,8 +1,8 @@
-/*
+/**
  * This file contains all global variables and
  * other necessary configurations for the
  * proper functioning of this project. 
- */
+*/
 
 // colors
 const colors = {

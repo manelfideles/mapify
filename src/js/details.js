@@ -1,3 +1,10 @@
+/**
+ * This file contains all the code
+ * necessary to generate the detailed
+ * plots that appear upon clicking on
+ * any given word.
+*/
+
 import { barplotConfig } from './config.js';
 const { margin, width, height } = barplotConfig;
 
@@ -32,12 +39,13 @@ function makeBarplot(data) {
     // data['top-genres'].map((d, i) => console.log(d, i))
 
     // @TODO este bloco não funciona :(
-    barplot.selectAll(".bar")
-        .data(data)
+    // Suspeito que nem sequer corre
+    barplot.selectAll()
+        .data(data['top-genres'])
         .join("rect")
         .attr("x", x(0))
-        .attr("y", d => { console.log(d); return y(d[0]) })
-        .attr("width", d => { console.log(d); return x(d[1]) })
+        .attr("y", d => y(d[0]))
+        .attr("width", d => x(d[1]))
         .attr("height", y.bandwidth())
         .attr("fill", "#69b3a2")
 

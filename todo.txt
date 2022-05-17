@@ -1,0 +1,5 @@
+[] Solução para a agregação excessiva das palavras
+[] Barplot nos detailed plots não mostra barras nenhumas
+[] Radarplot
+[] Categorizar as palavras
+[] Vista de small multiples
