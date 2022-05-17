@@ -1,3 +1,12 @@
+/**
+ * This file contains all event listeners for the
+ * proper interaction with all buttons.
+ */
+
+
+import { dataset } from './config.js';
+import { makeBarplot, makeRadarplot } from './details.js';
+
 function handleControlPanelClick(classname) {
     const classArray = document.querySelectorAll(`.${classname}`);
     for (let i = 0; i < classArray.length; i++) {
@@ -21,10 +30,15 @@ function handleWordClick(classname) {
         'click', (event) => {
             const details = document.querySelector('.details');
             if (details.style.display == 'none') {
+                const clickedWord = event.target.innerHTML;
                 details.setAttribute('style', 'display: flex');
-                details.children[1].innerHTML = event.target.innerHTML
+                details.children[1].innerHTML = clickedWord;
                 details.setAttribute('style', `left: ${event.pageX + 25}px; top: ${event.pageY}px`);
-                //details.setAttribute('style', `top: ${event.pageY + 100}px`);
+
+                // display detail plots
+                const wordData = dataset['data'].find(el => el['word'] == clickedWord)['word-details'];
+                makeBarplot(wordData);
+                makeRadarplot(/* wordData */);
             }
         }
     )

@@ -95,16 +95,24 @@
                     Here you can check out the top 5 genres in which
                     the word is most frequently used.
                 </p>
-                <img class='graph-img' src='../assets/genre-distribution.jpg' alt='genre-distribution'>
+                <!-- <img class='graph-img' src='../assets/genre-distribution.jpg' alt='genre-distribution'> -->
+                <!-- Barplot here -->
+                <div class='bar-plot'>
+
+                </div>
             </div>
             <div class='graph'>
                 <span class='graph-title'>Word Characteristics</span>
                 <p class='graph-description'>
-                    This star plot illustrates energy,
+                    This radar plot illustrates energy,
                     danceability and liveness of the word you clicked.
-                    Here you can get a feel of the mood of the word.
+                    Here you can get a feel for the mood of the word.
                 </p>
-                <img class='graph-img' src='../assets/word-characteristics.jpg' alt='word-characteristics'>
+                <!-- <img class='graph-img' src='../assets/word-characteristics.jpg' alt='word-characteristics'> -->
+                <!-- Radar plot here -->
+                <div class='radar-plot'>
+
+                </div>
             </div>
             <div class='graph'>
                 <span class='graph-title'>Word Mood</span>
@@ -138,9 +146,11 @@
         const db = getFirestore(app);
     </script>
     -->
+
     <script type='module' src='./js/listeners.js'></script>
     <script type='module' src='./js/config.js'></script>
     <script type='module' src='./js/index.js'></script>
+    <script type='module' src='./js/details.js'></script>
 </body>
 
 </html>

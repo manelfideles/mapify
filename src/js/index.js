@@ -1,7 +1,5 @@
 import {
-    colors, dataset, margin,
-    width, height, resizeFactor,
-    scalex, scaley
+    dataset, wordcloudConfig
 } from './config.js';
 
 import {
@@ -10,6 +8,11 @@ import {
     handleBackBtnClick
 } from './listeners.js';
 
+const {
+    colors, margin, width,
+    height, resizeFactor,
+    scalex, scaley
+} = wordcloudConfig;
 
 // append the svg object to the wordcloud-viz object
 var svg = d3.select('.wordcloud-viz').append('svg')
@@ -29,8 +32,12 @@ var layout = d3.layout.cloud()
             color: colors[d.category]
         };
     }))
-    .padding(25)
-    .fontSize(d => d.size)
+    .padding(85)
+    .fontSize(d => {
+        let newSize = d.size / resizeFactor;
+        if (newSize > 150) { console.log(newSize); newSize = 150 };
+        return newSize;
+    })
     .on("end", draw);
 layout.start();
 
@@ -62,7 +69,7 @@ function draw(words) {
         .text(d => d.text);
 }
 
-window.addEventListener('load', () => handleControlPanelClick('category'));
-window.addEventListener('load', () => handleControlPanelClick('option'));
-window.addEventListener('load', () => handleWordClick('wordcloud-viz'));
+window.addEventListener('load', () => { handleControlPanelClick('category'); console.log('Loaded category control panel click listener!'); });
+window.addEventListener('load', () => { handleControlPanelClick('option'); console.log('Loaded option control panel click listener!'); });
+window.addEventListener('load', () => { handleWordClick('wordcloud-viz'); console.log('Loaded word click listener!'); });
 document.querySelector('.back-btn').addEventListener('click', handleBackBtnClick);

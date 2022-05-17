@@ -41,13 +41,12 @@ const colors = {
 async function getFile(filename) {
     let res = await fetch(`../../datasets/${filename}`)
     let data = await res.json();
+    console.log(data);
     return data;
 }
 
 const dataset = await getFile('total-word-freq.json');
 
-// calculates min and max values of bpm and duration
-// can be replaced with metadata from dataset
 const xMax = dataset['meta']['duration']['max'],
     xMin = dataset['meta']['duration']['min'],
     yMax = dataset['meta']['bpm']['max'],
@@ -56,7 +55,7 @@ const xMax = dataset['meta']['duration']['max'],
 const xdomain = [xMin, xMax],
     ydomain = [yMin, yMax]
 
-const xsize = window.innerWidth - 100;
+const xsize = window.innerWidth - 200;
 const ysize = window.innerHeight;
 const offset = 10;
 
@@ -69,10 +68,27 @@ const margin = { top: offset, right: offset, bottom: offset, left: offset },
 const scalex = d3.scaleLinear().domain(xdomain).range([0, width])
 const scaley = d3.scaleLinear().domain(ydomain).range([0, height])
 
-const resizeFactor = 346;
+const resizeFactor = 50;
+
+const wordcloudConfig = {
+    'colors': colors,
+    'margin': margin,
+    'width': width,
+    'height': height,
+    'resizeFactor': resizeFactor,
+    'scalex': scalex,
+    'scaley': scaley
+}
+
+const barplotMargin = { top: 20, right: 30, bottom: 40, left: 90 };
+const barplotConfig = {
+    'margin': barplotMargin,
+    'width': 230 - barplotMargin.left - barplotMargin.right,
+    'height': 200 - barplotMargin.top - barplotMargin.bottom
+}
 
 export {
-    colors, dataset, margin,
-    width, height, resizeFactor,
-    scalex, scaley
+    dataset,
+    wordcloudConfig,
+    barplotConfig,
 }
