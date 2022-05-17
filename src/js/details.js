@@ -36,10 +36,6 @@ function makeBarplot(data) {
     barplot.append("g")
         .call(d3.axisLeft(y))
 
-    // data['top-genres'].map((d, i) => console.log(d, i))
-
-    // @TODO este bloco não funciona :(
-    // Suspeito que nem sequer corre
     barplot.selectAll()
         .data(data['top-genres'])
         .join("rect")
