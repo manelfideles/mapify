@@ -38,7 +38,7 @@ function handleWordClick(classname) {
                 // display detail plots
                 const wordData = dataset['data'].find(el => el['word'] == clickedWord)['word-details'];
                 makeBarplot(wordData);
-                makeRadarplot(/* wordData */);
+                makeRadarplot(wordData);
             }
         }
     )
@@ -46,8 +46,11 @@ function handleWordClick(classname) {
 
 function handleBackBtnClick(event) {
     const details = document.querySelector('.details');
-    if (details.style.display !== 'none')
+    if (details.style.display !== 'none') {
         details.setAttribute('style', 'display: none');
+        d3.select('.bar-plot').selectAll('svg').remove();
+        d3.select('.radar-plot').selectAll('svg').remove();
+    }
 }
 
 export {

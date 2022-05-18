@@ -50,14 +50,16 @@ const dataset = await getFile('total-word-freq.json');
 const xMax = dataset['meta']['duration']['max'],
     xMin = dataset['meta']['duration']['min'],
     yMax = dataset['meta']['bpm']['max'],
-    yMin = dataset['meta']['bpm']['min'];
+    yMin = dataset['meta']['bpm']['min'],
+    sizeMin = dataset['meta']['count']['min'],
+    sizeMax = dataset['meta']['count']['max'];
 
 const xdomain = [xMin, xMax],
     ydomain = [yMin, yMax]
 
-const xsize = window.innerWidth - 200;
-const ysize = window.innerHeight;
 const offset = 10;
+const xsize = window.innerWidth - offset;
+const ysize = window.innerHeight;
 
 // set the dimensions and margins of the graph
 const margin = { top: offset, right: offset, bottom: offset, left: offset },
@@ -77,18 +79,38 @@ const wordcloudConfig = {
     'height': height,
     'resizeFactor': resizeFactor,
     'scalex': scalex,
-    'scaley': scaley
+    'scaley': scaley,
+    'sizeMin': sizeMin,
+    'sizeMax': sizeMax
 }
 
-const barplotMargin = { top: 20, right: 30, bottom: 40, left: 90 };
+const barplotMargin = { top: 20, right: 20, bottom: 50, left: 90 };
 const barplotConfig = {
     'margin': barplotMargin,
-    'width': 230 - barplotMargin.left - barplotMargin.right,
+    'width': 400 - barplotMargin.left - barplotMargin.right,
     'height': 200 - barplotMargin.top - barplotMargin.bottom
 }
+
+const radarplotMargin = { top: 20, right: 20, bottom: 20, left: 20 };
+const radarplotConfig = {
+    rpMargin: radarplotMargin,
+    rpWidth: 200 - radarplotMargin.left - radarplotMargin.right,
+    rpHeight: 200 - radarplotMargin.top - radarplotMargin.bottom,
+    levels: 5,
+    maxValue: 1,
+    labelFactor: 1.25,
+    wrapWidth: 60,
+    opacityArea: 0.5,
+    dotRadius: 4,
+    opacityCircle: 0.1,
+    strokeWidth: 2,
+    roundStrokes: false,
+    color: '#CC333F'
+};
 
 export {
     dataset,
     wordcloudConfig,
     barplotConfig,
+    radarplotConfig,
 }

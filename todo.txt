@@ -1,4 +1,3 @@
-[] Solução para a agregação excessiva das palavras
 [] Radarplot
-[] Categorizar as palavras
+[] Categorizar as palavras com o sheets
 [] Vista de small multiples

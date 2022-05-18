@@ -6,6 +6,21 @@ body {
     margin: 0;
 }
 
+.bar-plot,
+.radar-plot {
+    border: 2px solid red;
+    margin-bottom: 2em;
+}
+
+.wordcloud-viz {
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.bar-plot {
+    margin-right: -1.5em;
+}
+
 /* .wordcloud-viz svg {
     border: 2px solid red;
 } */
