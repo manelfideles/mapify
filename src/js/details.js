@@ -57,12 +57,11 @@ function angleToCoordinate(angle, value, radialScale) {
     return { "x": 150 + x, "y": 150 - y };
 }
 
-function getPathCoordinates(data_point, features) {
+function getPathCoordinates(info, radialScale) {
     let coordinates = [];
-    for (var i = 0; i < features.length; i++) {
-        let ft_name = features[i];
-        let angle = (Math.PI / 2) + (2 * Math.PI * i / features.length);
-        coordinates.push(angleToCoordinate(angle, data_point[ft_name]));
+    for (var i = 0; i < info.length; i++) {
+        let angle = (Math.PI / 2) + (2 * Math.PI * i / info.length);
+        coordinates.push(angleToCoordinate(angle, info[i], radialScale));
     }
     return coordinates;
 }
@@ -75,10 +74,10 @@ function makeRadarplot(data) {
         .attr("transform", `translate(25, 0)`);
 
     let radialScale = d3.scaleLinear()
-        .domain([0, 1])
+        .domain([0, 100])
         .range([0, 100])
 
-    let ticks = [0.2, 0.4, 0.6, 0.8, 1];
+    let ticks = [20, 40, 60, 80, 100];
 
     ticks.forEach(t =>
         radarplot.append("circle")
@@ -103,8 +102,8 @@ function makeRadarplot(data) {
     for (var i = 0; i < features.length; i++) {
         let ft_name = features[i];
         let angle = (Math.PI / 2) + (2 * Math.PI * i / features.length);
-        let line_coordinate = angleToCoordinate(angle, 1, radialScale);
-        let label_coordinate = angleToCoordinate(angle, 1.10, radialScale);
+        let line_coordinate = angleToCoordinate(angle, 100, radialScale);
+        let label_coordinate = angleToCoordinate(angle, 110, radialScale);
 
         //draw axis line
         radarplot.append("line")
@@ -141,11 +140,25 @@ function makeRadarplot(data) {
         }
     }
 
-    // Falta max e min de dnce, nrgy e live
-    // para saber o domain
-    /* let line = d3.line()
+    const info = [
+        data['danceability'],
+        data['energy'],
+        data['liveness'],
+    ]
+
+    let line = d3.line()
         .x(d => d.x)
-        .y(d => d.y); */
+        .y(d => d.y);
+
+    let coordinates = getPathCoordinates(info, radialScale);
+
+    radarplot.append("path")
+        .datum(coordinates)
+        .attr("d", line)
+        .attr("stroke-width", 3)
+        .attr("fill", '#CC333F')
+        .attr("stroke-opacity", 1)
+        .attr("opacity", 0.5);
 
     console.log('Done');
     return radarplot;
