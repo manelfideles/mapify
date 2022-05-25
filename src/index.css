@@ -223,6 +223,18 @@ main {
     margin-right: -1.5em;
 }
 
+#mood-score {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+#mood-score>p {
+    font-size: 4em;
+    margin-right: 0.5em;
+}
+
 .small-multiples-container {
     justify-content: space-between;
     display: grid;

@@ -1,4 +1,3 @@
-[] Vista de small multiples
 [] Toggle entre views
 [] Toggle de categorias
 [] Lente que mostra as palavras que estão dentro do radius

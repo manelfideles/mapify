@@ -164,4 +164,23 @@ function makeRadarplot(data) {
     return radarplot;
 }
 
-export { makeBarplot, makeRadarplot };
+function moodScore(valence) {
+    const curDiv = document.getElementById('mood-score');
+    if (curDiv.children.length) {
+        curDiv.lastElementChild.remove();
+        curDiv.lastElementChild.remove();
+    }
+    let image = new Image(75, 75);
+    if (valence < 33) image.src = '../../assets/frown-face.svg';
+    else if (valence < 66) image.src = '../../assets/meh-face.svg';
+    else image.src = '../../assets/smile-face.svg';
+
+    const para = document.createElement("p");
+    const textNode = document.createTextNode(`${Math.round(valence)}`);
+    para.appendChild(textNode);
+
+    curDiv.appendChild(para);
+    curDiv.appendChild(image);
+}
+
+export { makeBarplot, makeRadarplot, moodScore };

@@ -5,7 +5,7 @@
 
 
 import { dataset } from './config.js';
-import { makeBarplot, makeRadarplot } from './details.js';
+import { makeBarplot, makeRadarplot, moodScore } from './details.js';
 
 function handleControlPanelClick(classname) {
     const classArray = document.querySelectorAll(`.${classname}`);
@@ -39,6 +39,7 @@ function handleWordClick(classname) {
                 const wordData = dataset['data'].find(el => el['word'] == clickedWord)['word-details'];
                 makeBarplot(wordData);
                 makeRadarplot(wordData);
+                moodScore(wordData['valence'])
             }
         }
     )
