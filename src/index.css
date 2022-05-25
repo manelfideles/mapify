@@ -241,6 +241,7 @@ main {
     gap: 10px;
     grid-template-columns: repeat(3, 1fr);
     margin-bottom: 10em;
+    margin-top: 2em;
 }
 
 .small-multiples-viz {
@@ -248,10 +249,13 @@ main {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    margin-bottom: 3em;
 }
 
 .small-multiples-viz>span {
     font-weight: bold;
+    padding-left: 1.5em;
+    /* border: 2px solid red; */
 }
 
 .small-multiples-viz>img {

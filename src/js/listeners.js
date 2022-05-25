@@ -16,6 +16,16 @@ function handleControlPanelClick(classname) {
                 if (elem.classList == 'option') {
                     elem.classList.add('active');
                     i ? classArray[i - 1].classList.remove('active') : classArray[i + 1].classList.remove('active');
+                    const wordcloudViz = document.querySelector('.wordcloud-viz')
+                    const smallMultiples = document.querySelector('.small-multiples-container')
+                    if (elem.innerHTML == 'wordcloud') {
+                        wordcloudViz.setAttribute('style', 'display: flex');
+                        smallMultiples.setAttribute('style', 'display: none');
+                    }
+                    else {
+                        wordcloudViz.setAttribute('style', 'display: none');
+                        smallMultiples.setAttribute('style', 'display: grid');
+                    }
                 }
                 else if (elem.classList == classname) { elem.classList.add('active'); }
                 else { elem.classList.remove('active'); }
