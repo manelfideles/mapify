@@ -12,6 +12,15 @@
     <!-- Load d3-cloud -->
     <script src="https://cdn.jsdelivr.net/gh/holtzy/D3-graph-gallery@master/LIB/d3.layout.cloud.js"></script>
     <link rel="icon" type="image/x-icon" href="../assets/favicon.ico">
+
+    <!-- Load graph modules -->
+    <script type='module' src='./js/listeners.js' defer></script>
+    <script type='module' src='./js/config.js' defer></script>
+    <script type='module' src='./js/index.js' defer></script>
+    <script type='module' src='./js/details.js' defer></script>
+    <script type='module' src='./js/scatterplot.js' defer></script>
+    <script type='module' src='./js/fisheye.js' defer></script>
+
 </head>
 
 <body>
@@ -26,39 +35,15 @@
                 <div class='categories'>
                     <div class='category'>
                         <div class='square' style="background-color: #ff7f7f;"></div>
-                        <span>drugs</span>
-                    </div>
-                    <div class='category'>
-                        <div class='square' style="background-color: #FFB47F;"></div>
-                        <span>sex</span>
-                    </div>
-                    <div class='category'>
-                        <div class='square' style="background-color: #FFFF7F;"></div>
-                        <span>money</span>
+                        <span>adjectives</span>
                     </div>
                     <div class='category'>
                         <div class='square' style="background-color: #A0FF7F;"></div>
-                        <span>love</span>
-                    </div>
-                    <div class='category'>
-                        <div class='square' style="background-color: #7FC8FF;"></div>
-                        <span>movies</span>
-                    </div>
-                    <div class='category'>
-                        <div class='square' style="background-color: #7F7FFF;"></div>
-                        <span>food</span>
+                        <span>verbs</span>
                     </div>
                     <div class='category'>
                         <div class='square' style="background-color: #E17FFF;"></div>
-                        <span>sports</span>
-                    </div>
-                    <div class='category'>
-                        <div class='square' style="background-color: #FF7FAA;"></div>
-                        <span>animals</span>
-                    </div>
-                    <div class='category'>
-                        <div class='square' style="background-color: #DCDCDC;"></div>
-                        <span>names</span>
+                        <span>nouns</span>
                     </div>
                 </div>
             </div>
@@ -77,9 +62,7 @@
         </div>
     </div>
 
-    <!-- wordcloud here -->
     <main>
-        <!-- <img class='wordcloud' src='../assets/wordcloud-example.jpg' alt='wordcloud-example'> -->
         <div class='wordcloud-viz'></div>
         <div class='details' style='display: none;'>
             <div class='back-btn'>
@@ -120,6 +103,49 @@
                 <img class='graph-img' src='../assets/mood-score.jpg' alt='mood-score'>
             </div>
         </div>
+        <div class="small-multiples-container">
+            <!-- Placeholder -->
+            <div class="small-multiples-viz">
+                <div id="year-2010"></div>
+                <span>2010</span>
+            </div>
+            <div class="small-multiples-viz">
+                <div id="year-2011"></div>
+                <span>2011</span>
+            </div>
+            <div class="small-multiples-viz">
+                <div id="year-2012"></div>
+                <span>2012</span>
+            </div>
+            <div class="small-multiples-viz">
+                <div id="year-2013"></div>
+                <span>2013</span>
+            </div>
+            <div class="small-multiples-viz">
+                <div id="year-2014"></div>
+                <span>2014</span>
+            </div>
+            <div class="small-multiples-viz">
+                <div id="year-2015"></div>
+                <span>2015</span>
+            </div>
+            <div class="small-multiples-viz">
+                <div id="year-2016"></div>
+                <span>2016</span>
+            </div>
+            <div class="small-multiples-viz">
+                <div id="year-2017"></div>
+                <span>2017</span>
+            </div>
+            <div class="small-multiples-viz">
+                <div id="year-2018"></div>
+                <span>2018</span>
+            </div>
+            <div class="small-multiples-viz">
+                <div id="year-2019"></div>
+                <span>2019</span>
+            </div>
+        </div>
     </main>
 
     <footer>
@@ -130,13 +156,6 @@
         </div>
         <img src='../assets/dei-logo.png' alt='dei-logo'>
     </footer>
-
-    <script type='module' src='./js/listeners.js'></script>
-    <script type='module' src='./js/config.js'></script>
-    <script type='module' src='./js/index.js'></script>
-    <script type='module' src='./js/details.js'></script>
-    <script type='module' src='./js/fisheye.js'></script>
-
 </body>
 
 </html>

@@ -5,16 +5,11 @@
 */
 
 // colors
+// ADJ, NOUN, VERB
 const colors = {
-    'drugs': '#ff7f7f',
-    'sex': '#FFB47F',
-    'money': '#FFFF7F',
-    'love': '#A0FF7F',
-    'movies': '#7FC8FF',
-    'food': '#7F7FFF',
-    'sports': '#E17FFF',
-    'animals': '#FF7FAA',
-    'names': '#DCDCDC',
+    'ADJ': '#ff7f7f',
+    'VERB': '#A0FF7F',
+    'NOUN': '#E17FFF',
 }
 
 // dataset - replace this by own dataset
@@ -58,7 +53,7 @@ const xdomain = [xMin, xMax],
     ydomain = [yMin, yMax]
 
 const offset = 10;
-const xsize = window.innerWidth - offset;
+const xsize = window.innerWidth - offset * 20;
 const ysize = window.innerHeight;
 
 // set the dimensions and margins of the graph
@@ -113,4 +108,7 @@ export {
     wordcloudConfig,
     barplotConfig,
     radarplotConfig,
+    xMax, xMin,
+    yMax, yMin,
+    getFile
 }

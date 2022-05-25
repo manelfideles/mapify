@@ -8,12 +8,20 @@ import {
     handleBackBtnClick
 } from './listeners.js';
 
+import { makeScatterplot } from './scatterplot.js';
+
 const {
     colors, margin, width,
     height, resizeFactor,
     scalex, scaley, sizeMin, sizeMax
 } = wordcloudConfig;
 
+
+// Small multiples
+for (let i = 2010; i <= 2019; i++)
+    makeScatterplot(i.toString())
+
+// Wordcloud
 // append the svg object to the wordcloud-viz object
 var svg = d3.select('.wordcloud-viz').append('svg')
     .attr('width', width + margin.left + margin.right)
@@ -58,7 +66,7 @@ function draw(words) {
         .style('cursor', 'pointer')
         .on('mouseover', (event, d) => {
             d3.select(event.target).style('font-weight', 'bold');
-            d3.select(event.target).style('stroke', 'white');
+            d3.select(event.target).style('stroke', 'black');
         })
         .on('mouseout', (event, d) => {
             d3.select(event.target).style('font-weight', 'normal');
@@ -101,6 +109,62 @@ svg.call(d3.zoom()
         .attr("x2", function (d) { return d.target.fisheye.x; })
         .attr("y2", function (d) { return d.target.fisheye.y; });
 }); */
+
+
+/*
+
+// set the dimensions and margins of the graph
+const m = { top: 10, right: 30, bottom: 30, left: 60 },
+    w = 460 - m.left - m.right,
+    h = 250 - m.top - m.bottom;
+
+// append the svg object to the body of the page
+const scatterplot = d3.select("#year-2010")
+    .append("svg")
+    .attr("width", w + m.left + m.right)
+    .attr("height", h + m.top + m.bottom)
+    .append("g")
+    .attr("transform",
+        `translate(${m.left}, ${m.top})`);
+
+//Read the data
+d3.csv("https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/iris.csv").then(function (data) {
+
+    // Add X axis
+    const x = d3.scaleLinear()
+        .domain([4, 8])
+        .range([0, w]);
+    scatterplot.append("g")
+        .attr("transform", "translate(0," + h / 2 + ")")
+        .call(d3.axisBottom(x));
+
+    // Add Y axis
+    const y = d3.scaleLinear()
+        .domain([0, 9])
+        .range([h, 0]);
+    scatterplot.append("g")
+        .attr("transform", "translate(" + w / 2 + ", 0)")
+        .call(d3.axisLeft(y));
+
+    // Color scale: give me a specie name, I return a color
+    const color = d3.scaleOrdinal()
+        .domain(["setosa", "versicolor", "virginica"])
+        .range(["#440154ff", "#21908dff", "#fde725ff"])
+
+    // Add dots
+    scatterplot.append('g')
+        .selectAll("dot")
+        .data(data)
+        .join("circle")
+        .attr("cx", function (d) { return x(d.Sepal_Length); })
+        .attr("cy", function (d) { return y(d.Petal_Length); })
+        .attr("r", 5)
+        .style("fill", function (d) { return color(d.Species) })
+
+})
+
+*/
+
 
 window.addEventListener('load', () => { handleControlPanelClick('category'); console.log('Loaded category control panel click listener!'); });
 window.addEventListener('load', () => { handleControlPanelClick('option'); console.log('Loaded option control panel click listener!'); });

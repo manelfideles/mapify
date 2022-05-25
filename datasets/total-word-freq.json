@@ -53,7 +53,7 @@
             },
             "duration": 224.10732538330495,
             "bpm": 118.77853492333901,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "am",
@@ -88,7 +88,7 @@
             },
             "duration": 224.5536842105263,
             "bpm": 119.36631578947369,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "is",
@@ -123,7 +123,7 @@
             },
             "duration": 225.18560606060606,
             "bpm": 118.85416666666667,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "do",
@@ -158,7 +158,7 @@
             },
             "duration": 224.8658280922432,
             "bpm": 118.45911949685535,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "are",
@@ -193,7 +193,7 @@
             },
             "duration": 225.0392156862745,
             "bpm": 117.00217864923748,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "love",
@@ -228,7 +228,7 @@
             },
             "duration": 225.45253164556962,
             "bpm": 118.24050632911393,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "be",
@@ -263,7 +263,7 @@
             },
             "duration": 226.86702127659575,
             "bpm": 118.94680851063829,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "yeah",
@@ -298,7 +298,7 @@
             },
             "duration": 223.49532710280374,
             "bpm": 117.82866043613707,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "will",
@@ -333,7 +333,7 @@
             },
             "duration": 225.47340425531914,
             "bpm": 120.28457446808511,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "want",
@@ -368,7 +368,7 @@
             },
             "duration": 224.94259818731118,
             "bpm": 117.96374622356495,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "know",
@@ -403,7 +403,7 @@
             },
             "duration": 224.66172839506171,
             "bpm": 115.56296296296296,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "got",
@@ -438,7 +438,7 @@
             },
             "duration": 224.03529411764706,
             "bpm": 118.71470588235294,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "oh",
@@ -473,7 +473,7 @@
             },
             "duration": 225.55300859598853,
             "bpm": 116.92550143266476,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "let",
@@ -508,7 +508,7 @@
             },
             "duration": 224.32,
             "bpm": 118.58,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "baby",
@@ -543,7 +543,7 @@
             },
             "duration": 225.2652329749104,
             "bpm": 117.22939068100358,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "go",
@@ -578,7 +578,7 @@
             },
             "duration": 226.84459459459458,
             "bpm": 118.12162162162163,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "get",
@@ -613,7 +613,7 @@
             },
             "duration": 227.32155477031802,
             "bpm": 119.43462897526501,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "have",
@@ -648,7 +648,7 @@
             },
             "duration": 226.77811550151975,
             "bpm": 119.56838905775076,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "come",
@@ -683,7 +683,7 @@
             },
             "duration": 225.43037974683546,
             "bpm": 117.78902953586498,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "can",
@@ -718,7 +718,7 @@
             },
             "duration": 226.21554770318022,
             "bpm": 119.69257950530036,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "girl",
@@ -753,7 +753,7 @@
             },
             "duration": 226.16770186335404,
             "bpm": 118.25465838509317,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "going",
@@ -788,7 +788,7 @@
             },
             "duration": 223.93548387096774,
             "bpm": 116.38172043010752,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "make",
@@ -823,7 +823,7 @@
             },
             "duration": 226.827868852459,
             "bpm": 119.29918032786885,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "cannot",
@@ -858,7 +858,7 @@
             },
             "duration": 227.96652719665272,
             "bpm": 119.69456066945607,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "way",
@@ -893,7 +893,7 @@
             },
             "duration": 223.96698113207546,
             "bpm": 120.9622641509434,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "hey",
@@ -928,7 +928,7 @@
             },
             "duration": 223.4724409448819,
             "bpm": 119.28346456692914,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "say",
@@ -963,7 +963,7 @@
             },
             "duration": 224.9908256880734,
             "bpm": 118.05045871559633,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "take",
@@ -998,7 +998,7 @@
             },
             "duration": 228.4331797235023,
             "bpm": 117.74654377880184,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "night",
@@ -1033,7 +1033,7 @@
             },
             "duration": 226.14705882352942,
             "bpm": 118.91764705882353,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "time",
@@ -1068,7 +1068,7 @@
             },
             "duration": 226.30739299610894,
             "bpm": 118.28015564202335,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "u",
@@ -1103,7 +1103,7 @@
             },
             "duration": 225.140625,
             "bpm": 117.5,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "would",
@@ -1138,7 +1138,7 @@
             },
             "duration": 226.0421686746988,
             "bpm": 117.855421686747,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "feel",
@@ -1173,7 +1173,7 @@
             },
             "duration": 225.21608040201005,
             "bpm": 118.77889447236181,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "need",
@@ -1208,7 +1208,7 @@
             },
             "duration": 223.19148936170214,
             "bpm": 120.0,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "give",
@@ -1243,7 +1243,7 @@
             },
             "duration": 228.91017964071855,
             "bpm": 120.16766467065868,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "ooh",
@@ -1278,7 +1278,7 @@
             },
             "duration": 225.73684210526315,
             "bpm": 115.61654135338345,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "see",
@@ -1313,7 +1313,7 @@
             },
             "duration": 228.9561403508772,
             "bpm": 119.71491228070175,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "wa",
@@ -1348,7 +1348,7 @@
             },
             "duration": 225.5056179775281,
             "bpm": 116.80337078651685,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "heart",
@@ -1383,7 +1383,7 @@
             },
             "duration": 226.24418604651163,
             "bpm": 119.44767441860465,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "been",
@@ -1418,7 +1418,7 @@
             },
             "duration": 226.58857142857144,
             "bpm": 117.55428571428571,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "tonight",
@@ -1453,7 +1453,7 @@
             },
             "duration": 226.4453125,
             "bpm": 121.28125,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "could",
@@ -1488,7 +1488,7 @@
             },
             "duration": 226.43814432989691,
             "bpm": 116.72680412371135,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "s",
@@ -1523,7 +1523,7 @@
             },
             "duration": 228.92079207920793,
             "bpm": 117.97524752475248,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "tell",
@@ -1558,7 +1558,7 @@
             },
             "duration": 228.26900584795322,
             "bpm": 116.7719298245614,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "keep",
@@ -1593,7 +1593,7 @@
             },
             "duration": 223.69135802469137,
             "bpm": 120.16666666666667,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "life",
@@ -1628,7 +1628,7 @@
             },
             "duration": 234.5,
             "bpm": 119.43333333333334,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "think",
@@ -1663,7 +1663,7 @@
             },
             "duration": 224.3357142857143,
             "bpm": 120.76428571428572,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "good",
@@ -1698,7 +1698,7 @@
             },
             "duration": 229.9375,
             "bpm": 120.4140625,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "put",
@@ -1733,7 +1733,7 @@
             },
             "duration": 228.92241379310346,
             "bpm": 121.16379310344827,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "thing",
@@ -1768,7 +1768,7 @@
             },
             "duration": 228.74647887323943,
             "bpm": 117.95774647887323,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "work",
@@ -1803,7 +1803,7 @@
             },
             "duration": 230.11764705882354,
             "bpm": 113.27450980392157,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "hand",
@@ -1838,7 +1838,7 @@
             },
             "duration": 227.95535714285714,
             "bpm": 113.35714285714286,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "something",
@@ -1873,7 +1873,7 @@
             },
             "duration": 229.25641025641025,
             "bpm": 115.27350427350427,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "na",
@@ -1904,7 +1904,7 @@
             },
             "duration": 222.2608695652174,
             "bpm": 118.43478260869566,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "day",
@@ -1939,7 +1939,7 @@
             },
             "duration": 226.3228346456693,
             "bpm": 116.15748031496064,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "world",
@@ -1974,7 +1974,7 @@
             },
             "duration": 228.57407407407408,
             "bpm": 116.3425925925926,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "light",
@@ -2009,7 +2009,7 @@
             },
             "duration": 231.98260869565217,
             "bpm": 119.6086956521739,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "look",
@@ -2044,7 +2044,7 @@
             },
             "duration": 230.4453125,
             "bpm": 118.875,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "dance",
@@ -2079,7 +2079,7 @@
             },
             "duration": 221.953125,
             "bpm": 117.4375,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "run",
@@ -2114,7 +2114,7 @@
             },
             "duration": 234.1358024691358,
             "bpm": 127.37037037037037,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "mind",
@@ -2149,7 +2149,7 @@
             },
             "duration": 222.90178571428572,
             "bpm": 116.07142857142857,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "ya",
@@ -2184,7 +2184,7 @@
             },
             "duration": 227.46774193548387,
             "bpm": 118.98387096774194,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "body",
@@ -2219,7 +2219,7 @@
             },
             "duration": 230.45679012345678,
             "bpm": 117.18518518518519,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "turn",
@@ -2254,7 +2254,7 @@
             },
             "duration": 225.80208333333334,
             "bpm": 120.54166666666667,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "had",
@@ -2289,7 +2289,7 @@
             },
             "duration": 225.88695652173914,
             "bpm": 116.26086956521739,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "stop",
@@ -2324,7 +2324,7 @@
             },
             "duration": 229.77884615384616,
             "bpm": 119.70192307692308,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "call",
@@ -2359,7 +2359,7 @@
             },
             "duration": 225.59047619047618,
             "bpm": 118.81904761904762,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "little",
@@ -2394,7 +2394,7 @@
             },
             "duration": 221.13953488372093,
             "bpm": 121.70930232558139,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "boy",
@@ -2429,7 +2429,7 @@
             },
             "duration": 222.23232323232324,
             "bpm": 119.56565656565657,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "right",
@@ -2464,7 +2464,7 @@
             },
             "duration": 227.62566844919786,
             "bpm": 116.2192513368984,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "nothing",
@@ -2499,7 +2499,7 @@
             },
             "duration": 230.23728813559322,
             "bpm": 118.37288135593221,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "said",
@@ -2534,7 +2534,7 @@
             },
             "duration": 230.0,
             "bpm": 115.23423423423424,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "touch",
@@ -2569,7 +2569,7 @@
             },
             "duration": 226.87671232876713,
             "bpm": 117.58904109589041,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "boom",
@@ -2604,7 +2604,7 @@
             },
             "duration": 207.85714285714286,
             "bpm": 116.28571428571429,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "eye",
@@ -2639,7 +2639,7 @@
             },
             "duration": 229.59701492537314,
             "bpm": 116.35074626865672,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "were",
@@ -2674,7 +2674,7 @@
             },
             "duration": 224.04494382022472,
             "bpm": 114.08988764044943,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "show",
@@ -2709,7 +2709,7 @@
             },
             "duration": 218.28571428571428,
             "bpm": 118.93406593406593,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "did",
@@ -2744,7 +2744,7 @@
             },
             "duration": 231.4271844660194,
             "bpm": 117.93203883495146,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "name",
@@ -2779,7 +2779,7 @@
             },
             "duration": 227.37037037037038,
             "bpm": 116.20987654320987,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "ah",
@@ -2814,7 +2814,7 @@
             },
             "duration": 222.42105263157896,
             "bpm": 119.49122807017544,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "hold",
@@ -2849,7 +2849,7 @@
             },
             "duration": 227.32038834951456,
             "bpm": 122.2135922330097,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "feeling",
@@ -2884,7 +2884,7 @@
             },
             "duration": 225.95402298850576,
             "bpm": 119.0919540229885,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "move",
@@ -2919,7 +2919,7 @@
             },
             "duration": 225.1304347826087,
             "bpm": 121.34782608695652,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "break",
@@ -2954,7 +2954,7 @@
             },
             "duration": 232.23684210526315,
             "bpm": 117.39473684210526,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "find",
@@ -2989,7 +2989,7 @@
             },
             "duration": 224.1219512195122,
             "bpm": 115.71951219512195,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "everybody",
@@ -3024,7 +3024,7 @@
             },
             "duration": 236.9047619047619,
             "bpm": 116.85714285714286,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "should",
@@ -3059,7 +3059,7 @@
             },
             "duration": 219.61627906976744,
             "bpm": 115.96511627906976,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "fire",
@@ -3094,7 +3094,7 @@
             },
             "duration": 231.95384615384614,
             "bpm": 119.06153846153846,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "ohoh",
@@ -3129,7 +3129,7 @@
             },
             "duration": 229.0810810810811,
             "bpm": 118.54054054054055,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "hard",
@@ -3164,7 +3164,7 @@
             },
             "duration": 225.0222222222222,
             "bpm": 120.43333333333334,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "bad",
@@ -3199,7 +3199,7 @@
             },
             "duration": 226.11764705882354,
             "bpm": 116.20588235294117,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "talk",
@@ -3234,7 +3234,7 @@
             },
             "duration": 222.80701754385964,
             "bpm": 116.6842105263158,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "fall",
@@ -3269,7 +3269,7 @@
             },
             "duration": 230.4268292682927,
             "bpm": 120.41463414634147,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "stay",
@@ -3304,7 +3304,7 @@
             },
             "duration": 232.53012048192772,
             "bpm": 115.91566265060241,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "gon",
@@ -3339,7 +3339,7 @@
             },
             "duration": 239.3125,
             "bpm": 116.46875,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "made",
@@ -3374,7 +3374,7 @@
             },
             "duration": 237.54430379746836,
             "bpm": 119.18987341772151,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "mean",
@@ -3409,7 +3409,7 @@
             },
             "duration": 228.65277777777777,
             "bpm": 118.76388888888889,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "big",
@@ -3444,7 +3444,7 @@
             },
             "duration": 231.44,
             "bpm": 121.94,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "la",
@@ -3479,7 +3479,7 @@
             },
             "duration": 215.2325581395349,
             "bpm": 120.37209302325581,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "one",
@@ -3514,7 +3514,7 @@
             },
             "duration": 226.59545454545454,
             "bpm": 117.71818181818182,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "head",
@@ -3549,7 +3549,7 @@
             },
             "duration": 227.0921052631579,
             "bpm": 120.03947368421052,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "place",
@@ -3584,7 +3584,7 @@
             },
             "duration": 228.57971014492753,
             "bpm": 113.46376811594203,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "lose",
@@ -3619,7 +3619,7 @@
             },
             "duration": 240.30769230769232,
             "bpm": 118.57692307692308,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "uh",
@@ -3654,7 +3654,7 @@
             },
             "duration": 226.71641791044777,
             "bpm": 119.61194029850746,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "home",
@@ -3689,7 +3689,7 @@
             },
             "duration": 231.0144927536232,
             "bpm": 115.4927536231884,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "lie",
@@ -3724,7 +3724,7 @@
             },
             "duration": 224.59259259259258,
             "bpm": 115.29629629629629,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "rock",
@@ -3759,7 +3759,7 @@
             },
             "duration": 230.11363636363637,
             "bpm": 120.25,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "looking",
@@ -3794,7 +3794,7 @@
             },
             "duration": 233.1764705882353,
             "bpm": 115.55882352941177,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "more",
@@ -3829,7 +3829,7 @@
             },
             "duration": 228.7906976744186,
             "bpm": 120.04651162790698,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "care",
@@ -3864,7 +3864,7 @@
             },
             "duration": 224.9102564102564,
             "bpm": 116.74358974358974,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "hear",
@@ -3899,7 +3899,7 @@
             },
             "duration": 226.75,
             "bpm": 121.4625,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "high",
@@ -3934,7 +3934,7 @@
             },
             "duration": 231.44736842105263,
             "bpm": 119.0,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "came",
@@ -3969,7 +3969,7 @@
             },
             "duration": 228.66071428571428,
             "bpm": 116.94642857142857,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "ready",
@@ -4004,7 +4004,7 @@
             },
             "duration": 229.86,
             "bpm": 121.98,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "play",
@@ -4039,7 +4039,7 @@
             },
             "duration": 226.83544303797467,
             "bpm": 121.40506329113924,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "try",
@@ -4074,7 +4074,7 @@
             },
             "duration": 227.0441176470588,
             "bpm": 119.48529411764706,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "man",
@@ -4109,7 +4109,7 @@
             },
             "duration": 232.58904109589042,
             "bpm": 116.38356164383562,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "getting",
@@ -4144,7 +4144,7 @@
             },
             "duration": 225.4090909090909,
             "bpm": 114.21212121212122,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "party",
@@ -4179,7 +4179,7 @@
             },
             "duration": 224.77777777777777,
             "bpm": 119.24074074074075,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "leave",
@@ -4214,7 +4214,7 @@
             },
             "duration": 227.89285714285714,
             "bpm": 112.05952380952381,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "same",
@@ -4249,7 +4249,7 @@
             },
             "duration": 225.35714285714286,
             "bpm": 112.44642857142857,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "last",
@@ -4284,7 +4284,7 @@
             },
             "duration": 226.5483870967742,
             "bpm": 115.25806451612904,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "bitch",
@@ -4319,7 +4319,7 @@
             },
             "duration": 234.22641509433961,
             "bpm": 119.79245283018868,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "side",
@@ -4354,7 +4354,7 @@
             },
             "duration": 229.72727272727272,
             "bpm": 120.77272727272727,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "everything",
@@ -4389,7 +4389,7 @@
             },
             "duration": 228.16455696202533,
             "bpm": 119.39240506329114,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "friend",
@@ -4424,7 +4424,7 @@
             },
             "duration": 222.74647887323943,
             "bpm": 113.32394366197182,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "til",
@@ -4459,7 +4459,7 @@
             },
             "duration": 227.65333333333334,
             "bpm": 117.38666666666667,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "new",
@@ -4494,7 +4494,7 @@
             },
             "duration": 225.61194029850745,
             "bpm": 120.53731343283582,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "song",
@@ -4529,7 +4529,7 @@
             },
             "duration": 225.17857142857142,
             "bpm": 118.125,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "mine",
@@ -4564,7 +4564,7 @@
             },
             "duration": 226.21666666666667,
             "bpm": 110.85,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "burn",
@@ -4599,7 +4599,7 @@
             },
             "duration": 230.71428571428572,
             "bpm": 113.57142857142857,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "crazy",
@@ -4634,7 +4634,7 @@
             },
             "duration": 231.53125,
             "bpm": 115.0,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "eh",
@@ -4669,7 +4669,7 @@
             },
             "duration": 219.08333333333334,
             "bpm": 113.16666666666667,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "babe",
@@ -4704,7 +4704,7 @@
             },
             "duration": 233.29166666666666,
             "bpm": 118.66666666666667,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "alive",
@@ -4739,7 +4739,7 @@
             },
             "duration": 228.32258064516128,
             "bpm": 124.51612903225806,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "coming",
@@ -4774,7 +4774,7 @@
             },
             "duration": 223.73170731707316,
             "bpm": 121.58536585365853,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "found",
@@ -4809,7 +4809,7 @@
             },
             "duration": 238.07692307692307,
             "bpm": 109.3076923076923,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "hit",
@@ -4844,7 +4844,7 @@
             },
             "duration": 230.21428571428572,
             "bpm": 117.77380952380952,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "kiss",
@@ -4879,7 +4879,7 @@
             },
             "duration": 231.71666666666667,
             "bpm": 115.63333333333334,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "shit",
@@ -4914,7 +4914,7 @@
             },
             "duration": 238.30645161290323,
             "bpm": 116.48387096774194,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "other",
@@ -4949,7 +4949,7 @@
             },
             "duration": 229.56451612903226,
             "bpm": 110.2258064516129,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "live",
@@ -4984,7 +4984,7 @@
             },
             "duration": 229.82758620689654,
             "bpm": 120.77586206896552,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "beautiful",
@@ -5019,7 +5019,7 @@
             },
             "duration": 240.975,
             "bpm": 111.325,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "young",
@@ -5054,7 +5054,7 @@
             },
             "duration": 232.22,
             "bpm": 119.08,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "money",
@@ -5089,7 +5089,7 @@
             },
             "duration": 234.52727272727273,
             "bpm": 115.87272727272727,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "someone",
@@ -5124,7 +5124,7 @@
             },
             "duration": 220.4,
             "bpm": 120.21818181818182,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "bring",
@@ -5159,7 +5159,7 @@
             },
             "duration": 231.32558139534885,
             "bpm": 122.48837209302326,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "wait",
@@ -5194,7 +5194,7 @@
             },
             "duration": 223.3111111111111,
             "bpm": 118.06666666666666,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "dream",
@@ -5229,7 +5229,7 @@
             },
             "duration": 228.21212121212122,
             "bpm": 113.15151515151516,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "walk",
@@ -5264,7 +5264,7 @@
             },
             "duration": 224.68965517241378,
             "bpm": 117.89655172413794,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "somebody",
@@ -5299,7 +5299,7 @@
             },
             "duration": 230.89743589743588,
             "bpm": 118.05128205128206,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "hurt",
@@ -5334,7 +5334,7 @@
             },
             "duration": 229.16666666666666,
             "bpm": 126.72916666666667,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "floor",
@@ -5369,7 +5369,7 @@
             },
             "duration": 228.45,
             "bpm": 116.8,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "woo",
@@ -5404,7 +5404,7 @@
             },
             "duration": 221.0731707317073,
             "bpm": 115.1219512195122,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "beat",
@@ -5439,7 +5439,7 @@
             },
             "duration": 229.93103448275863,
             "bpm": 118.89655172413794,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "hope",
@@ -5474,7 +5474,7 @@
             },
             "duration": 232.71212121212122,
             "bpm": 114.53030303030303,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "feelin",
@@ -5509,7 +5509,7 @@
             },
             "duration": 223.48275862068965,
             "bpm": 118.6896551724138,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "real",
@@ -5544,7 +5544,7 @@
             },
             "duration": 230.7450980392157,
             "bpm": 111.2156862745098,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "shake",
@@ -5575,7 +5575,7 @@
             },
             "duration": 217.30434782608697,
             "bpm": 119.78260869565217,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "free",
@@ -5610,7 +5610,7 @@
             },
             "duration": 224.27659574468086,
             "bpm": 120.25531914893617,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "believe",
@@ -5645,7 +5645,7 @@
             },
             "duration": 227.61016949152543,
             "bpm": 117.42372881355932,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "word",
@@ -5680,7 +5680,7 @@
             },
             "duration": 218.36666666666667,
             "bpm": 120.91666666666667,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "low",
@@ -5715,7 +5715,7 @@
             },
             "duration": 230.21951219512195,
             "bpm": 115.46341463414635,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "change",
@@ -5750,7 +5750,7 @@
             },
             "duration": 229.31914893617022,
             "bpm": 110.12765957446808,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "fly",
@@ -5785,7 +5785,7 @@
             },
             "duration": 232.58139534883722,
             "bpm": 121.25581395348837,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "tryna",
@@ -5820,7 +5820,7 @@
             },
             "duration": 226.1917808219178,
             "bpm": 119.52054794520548,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "please",
@@ -5855,7 +5855,7 @@
             },
             "duration": 226.6818181818182,
             "bpm": 123.31818181818181,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "runnin",
@@ -5890,7 +5890,7 @@
             },
             "duration": 221.76190476190476,
             "bpm": 112.04761904761905,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "nobody",
@@ -5925,7 +5925,7 @@
             },
             "duration": 237.75,
             "bpm": 116.76923076923077,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "die",
@@ -5960,7 +5960,7 @@
             },
             "duration": 240.16666666666666,
             "bpm": 109.94444444444444,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "sweet",
@@ -5995,7 +5995,7 @@
             },
             "duration": 218.63636363636363,
             "bpm": 116.93939393939394,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "sky",
@@ -6030,7 +6030,7 @@
             },
             "duration": 227.27906976744185,
             "bpm": 121.90697674418605,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "like",
@@ -6065,7 +6065,7 @@
             },
             "duration": 224.1658163265306,
             "bpm": 120.25255102040816,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "only",
@@ -6100,7 +6100,7 @@
             },
             "duration": 231.7603305785124,
             "bpm": 116.86776859504133,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "remember",
@@ -6135,7 +6135,7 @@
             },
             "duration": 227.68085106382978,
             "bpm": 111.63829787234043,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "told",
@@ -6170,7 +6170,7 @@
             },
             "duration": 226.96610169491527,
             "bpm": 116.23728813559322,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "doe",
@@ -6205,7 +6205,7 @@
             },
             "duration": 229.82926829268294,
             "bpm": 116.63414634146342,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "used",
@@ -6240,7 +6240,7 @@
             },
             "duration": 232.03773584905662,
             "bpm": 117.67924528301887,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "knew",
@@ -6275,7 +6275,7 @@
             },
             "duration": 227.54,
             "bpm": 115.42,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "might",
@@ -6310,7 +6310,7 @@
             },
             "duration": 227.69230769230768,
             "bpm": 118.42307692307692,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "end",
@@ -6345,7 +6345,7 @@
             },
             "duration": 232.0,
             "bpm": 116.62068965517241,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "better",
@@ -6380,7 +6380,7 @@
             },
             "duration": 228.2987012987013,
             "bpm": 123.42857142857143,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "que",
@@ -6415,7 +6415,7 @@
             },
             "duration": 219.125,
             "bpm": 124.9375,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "yo",
@@ -6450,7 +6450,7 @@
             },
             "duration": 220.62857142857143,
             "bpm": 119.82857142857142,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "cry",
@@ -6485,7 +6485,7 @@
             },
             "duration": 236.57142857142858,
             "bpm": 115.6,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "wrong",
@@ -6520,7 +6520,7 @@
             },
             "duration": 220.55357142857142,
             "bpm": 124.23214285714286,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "whoa",
@@ -6551,7 +6551,7 @@
             },
             "duration": 223.62962962962962,
             "bpm": 115.07407407407408,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "wall",
@@ -6586,7 +6586,7 @@
             },
             "duration": 229.8918918918919,
             "bpm": 120.48648648648648,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "wish",
@@ -6621,7 +6621,7 @@
             },
             "duration": 227.9268292682927,
             "bpm": 118.1219512195122,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "best",
@@ -6656,7 +6656,7 @@
             },
             "duration": 237.3684210526316,
             "bpm": 113.94736842105263,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "living",
@@ -6691,7 +6691,7 @@
             },
             "duration": 247.43243243243242,
             "bpm": 114.10810810810811,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "face",
@@ -6726,7 +6726,7 @@
             },
             "duration": 238.57142857142858,
             "bpm": 114.19642857142857,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "doing",
@@ -6761,7 +6761,7 @@
             },
             "duration": 232.6078431372549,
             "bpm": 118.41176470588235,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "mama",
@@ -6788,7 +6788,7 @@
             },
             "duration": 223.04,
             "bpm": 115.64,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "drink",
@@ -6823,7 +6823,7 @@
             },
             "duration": 225.775,
             "bpm": 120.85,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "woah",
@@ -6858,7 +6858,7 @@
             },
             "duration": 224.54166666666666,
             "bpm": 104.70833333333333,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "cold",
@@ -6893,7 +6893,7 @@
             },
             "duration": 219.1,
             "bpm": 112.075,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "running",
@@ -6928,7 +6928,7 @@
             },
             "duration": 225.58536585365854,
             "bpm": 119.97560975609755,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "waiting",
@@ -6963,7 +6963,7 @@
             },
             "duration": 220.2127659574468,
             "bpm": 120.76595744680851,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "deep",
@@ -6998,7 +6998,7 @@
             },
             "duration": 220.5142857142857,
             "bpm": 112.88571428571429,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "mmm",
@@ -7033,7 +7033,7 @@
             },
             "duration": 212.9090909090909,
             "bpm": 122.63636363636364,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "c",
@@ -7064,7 +7064,7 @@
             },
             "duration": 232.44444444444446,
             "bpm": 120.66666666666667,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "perfect",
@@ -7099,7 +7099,7 @@
             },
             "duration": 234.25806451612902,
             "bpm": 118.70967741935483,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "alright",
@@ -7134,7 +7134,7 @@
             },
             "duration": 241.3409090909091,
             "bpm": 113.61363636363636,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "left",
@@ -7169,7 +7169,7 @@
             },
             "duration": 229.87272727272727,
             "bpm": 117.7090909090909,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "hot",
@@ -7204,7 +7204,7 @@
             },
             "duration": 232.42307692307693,
             "bpm": 117.82692307692308,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "anything",
@@ -7239,7 +7239,7 @@
             },
             "duration": 234.85714285714286,
             "bpm": 117.8,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "long",
@@ -7274,7 +7274,7 @@
             },
             "duration": 230.46031746031747,
             "bpm": 119.7936507936508,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "start",
@@ -7309,7 +7309,7 @@
             },
             "duration": 228.1153846153846,
             "bpm": 115.84615384615384,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "star",
@@ -7344,7 +7344,7 @@
             },
             "duration": 224.90740740740742,
             "bpm": 114.79629629629629,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "luh",
@@ -7363,7 +7363,7 @@
             },
             "duration": 207.0,
             "bpm": 96.0,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "club",
@@ -7390,7 +7390,7 @@
             },
             "duration": 237.51282051282053,
             "bpm": 114.25641025641026,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "bass",
@@ -7417,7 +7417,7 @@
             },
             "duration": 222.0,
             "bpm": 125.18181818181819,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "kind",
@@ -7452,7 +7452,7 @@
             },
             "duration": 218.08510638297872,
             "bpm": 114.80851063829788,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "hate",
@@ -7487,7 +7487,7 @@
             },
             "duration": 216.45,
             "bpm": 113.7,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "people",
@@ -7522,7 +7522,7 @@
             },
             "duration": 221.51162790697674,
             "bpm": 117.11627906976744,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "took",
@@ -7557,7 +7557,7 @@
             },
             "duration": 230.71428571428572,
             "bpm": 118.38775510204081,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "top",
@@ -7592,7 +7592,7 @@
             },
             "duration": 240.78947368421052,
             "bpm": 115.39473684210526,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "booty",
@@ -7627,7 +7627,7 @@
             },
             "duration": 224.5,
             "bpm": 120.4,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "enough",
@@ -7662,7 +7662,7 @@
             },
             "duration": 230.03030303030303,
             "bpm": 122.10606060606061,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "loving",
@@ -7697,7 +7697,7 @@
             },
             "duration": 215.73529411764707,
             "bpm": 116.6470588235294,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "much",
@@ -7732,7 +7732,7 @@
             },
             "duration": 232.43283582089552,
             "bpm": 113.11940298507463,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "fuck",
@@ -7767,7 +7767,7 @@
             },
             "duration": 236.26829268292684,
             "bpm": 118.85365853658537,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "close",
@@ -7802,7 +7802,7 @@
             },
             "duration": 227.6727272727273,
             "bpm": 120.61818181818182,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "ohohoh",
@@ -7837,7 +7837,7 @@
             },
             "duration": 227.78571428571428,
             "bpm": 119.5,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "le",
@@ -7872,7 +7872,7 @@
             },
             "duration": 234.2941176470588,
             "bpm": 124.3529411764706,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "sing",
@@ -7907,7 +7907,7 @@
             },
             "duration": 223.85714285714286,
             "bpm": 118.71428571428571,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "mon",
@@ -7934,7 +7934,7 @@
             },
             "duration": 226.07142857142858,
             "bpm": 116.21428571428571,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "own",
@@ -7969,7 +7969,7 @@
             },
             "duration": 223.79245283018867,
             "bpm": 116.49056603773585,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "sorry",
@@ -8004,7 +8004,7 @@
             },
             "duration": 219.5185185185185,
             "bpm": 122.22222222222223,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "lip",
@@ -8039,7 +8039,7 @@
             },
             "duration": 219.12765957446808,
             "bpm": 116.57446808510639,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "higher",
@@ -8074,7 +8074,7 @@
             },
             "duration": 228.23529411764707,
             "bpm": 120.17647058823529,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "true",
@@ -8109,7 +8109,7 @@
             },
             "duration": 235.3235294117647,
             "bpm": 113.20588235294117,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "doo",
@@ -8136,7 +8136,7 @@
             },
             "duration": 256.5,
             "bpm": 99.0,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "music",
@@ -8171,7 +8171,7 @@
             },
             "duration": 223.0,
             "bpm": 121.24242424242425,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "done",
@@ -8206,7 +8206,7 @@
             },
             "duration": 222.2,
             "bpm": 115.55555555555556,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "sun",
@@ -8241,7 +8241,7 @@
             },
             "duration": 224.93617021276594,
             "bpm": 120.17021276595744,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "forget",
@@ -8276,7 +8276,7 @@
             },
             "duration": 232.5681818181818,
             "bpm": 120.5,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "damn",
@@ -8311,7 +8311,7 @@
             },
             "duration": 231.48888888888888,
             "bpm": 116.6,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "open",
@@ -8346,7 +8346,7 @@
             },
             "duration": 222.6341463414634,
             "bpm": 120.90243902439025,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "kill",
@@ -8381,7 +8381,7 @@
             },
             "duration": 247.52631578947367,
             "bpm": 132.1578947368421,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "fight",
@@ -8416,7 +8416,7 @@
             },
             "duration": 235.9318181818182,
             "bpm": 112.95454545454545,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "lost",
@@ -8451,7 +8451,7 @@
             },
             "duration": 221.02325581395348,
             "bpm": 112.20930232558139,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "lover",
@@ -8486,7 +8486,7 @@
             },
             "duration": 227.80555555555554,
             "bpm": 120.19444444444444,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "wild",
@@ -8517,7 +8517,7 @@
             },
             "duration": 223.72222222222223,
             "bpm": 113.66666666666667,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "gone",
@@ -8552,7 +8552,7 @@
             },
             "duration": 225.26190476190476,
             "bpm": 112.52380952380952,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "tear",
@@ -8587,7 +8587,7 @@
             },
             "duration": 232.5909090909091,
             "bpm": 115.20454545454545,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "next",
@@ -8622,7 +8622,7 @@
             },
             "duration": 235.0487804878049,
             "bpm": 109.4390243902439,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "moment",
@@ -8657,7 +8657,7 @@
             },
             "duration": 238.06666666666666,
             "bpm": 118.23333333333333,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "bout",
@@ -8692,7 +8692,7 @@
             },
             "duration": 235.53030303030303,
             "bpm": 118.66666666666667,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "ayy",
@@ -8727,7 +8727,7 @@
             },
             "duration": 217.83333333333334,
             "bpm": 106.70833333333333,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "thought",
@@ -8762,7 +8762,7 @@
             },
             "duration": 217.8490566037736,
             "bpm": 117.56603773584905,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "da",
@@ -8789,7 +8789,7 @@
             },
             "duration": 225.3,
             "bpm": 115.3,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "sure",
@@ -8824,7 +8824,7 @@
             },
             "duration": 224.2,
             "bpm": 124.31428571428572,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "truth",
@@ -8859,7 +8859,7 @@
             },
             "duration": 222.54545454545453,
             "bpm": 120.88636363636364,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "watch",
@@ -8894,7 +8894,7 @@
             },
             "duration": 237.89473684210526,
             "bpm": 122.6842105263158,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "blow",
@@ -8929,7 +8929,7 @@
             },
             "duration": 230.6451612903226,
             "bpm": 120.83870967741936,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "god",
@@ -8964,7 +8964,7 @@
             },
             "duration": 239.04545454545453,
             "bpm": 115.02272727272727,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "trying",
@@ -8999,7 +8999,7 @@
             },
             "duration": 227.825,
             "bpm": 120.725,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "lucky",
@@ -9030,7 +9030,7 @@
             },
             "duration": 238.0,
             "bpm": 115.81818181818181,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "drip",
@@ -9053,7 +9053,7 @@
             },
             "duration": 225.22222222222223,
             "bpm": 125.66666666666667,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "falling",
@@ -9088,7 +9088,7 @@
             },
             "duration": 218.58064516129033,
             "bpm": 118.41935483870968,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "ha",
@@ -9123,7 +9123,7 @@
             },
             "duration": 228.6,
             "bpm": 117.24,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "understand",
@@ -9158,7 +9158,7 @@
             },
             "duration": 228.07692307692307,
             "bpm": 119.82051282051282,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "ride",
@@ -9193,7 +9193,7 @@
             },
             "duration": 235.94871794871796,
             "bpm": 117.2051282051282,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "game",
@@ -9228,7 +9228,7 @@
             },
             "duration": 223.7450980392157,
             "bpm": 119.43137254901961,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "huh",
@@ -9263,7 +9263,7 @@
             },
             "duration": 233.0,
             "bpm": 113.82142857142857,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "air",
@@ -9298,7 +9298,7 @@
             },
             "duration": 231.0,
             "bpm": 121.12903225806451,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "minute",
@@ -9333,7 +9333,7 @@
             },
             "duration": 231.72,
             "bpm": 125.04,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "tryin",
@@ -9364,7 +9364,7 @@
             },
             "duration": 210.30769230769232,
             "bpm": 114.53846153846153,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "wiggle",
@@ -9383,7 +9383,7 @@
             },
             "duration": 209.0,
             "bpm": 111.66666666666667,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "diamond",
@@ -9414,7 +9414,7 @@
             },
             "duration": 225.8421052631579,
             "bpm": 124.6842105263158,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "yes",
@@ -9449,7 +9449,7 @@
             },
             "duration": 218.90697674418604,
             "bpm": 119.51162790697674,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "being",
@@ -9484,7 +9484,7 @@
             },
             "duration": 234.1851851851852,
             "bpm": 122.22222222222223,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "guy",
@@ -9519,7 +9519,7 @@
             },
             "duration": 236.6086956521739,
             "bpm": 119.73913043478261,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "whole",
@@ -9554,7 +9554,7 @@
             },
             "duration": 225.8108108108108,
             "bpm": 121.08108108108108,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "room",
@@ -9589,7 +9589,7 @@
             },
             "duration": 217.85714285714286,
             "bpm": 118.95238095238095,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "old",
@@ -9624,7 +9624,7 @@
             },
             "duration": 231.15384615384616,
             "bpm": 111.1923076923077,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "dancing",
@@ -9659,7 +9659,7 @@
             },
             "duration": 228.13793103448276,
             "bpm": 123.86206896551724,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "line",
@@ -9694,7 +9694,7 @@
             },
             "duration": 223.390243902439,
             "bpm": 116.90243902439025,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "soul",
@@ -9729,7 +9729,7 @@
             },
             "duration": 234.32142857142858,
             "bpm": 105.28571428571429,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "saying",
@@ -9764,7 +9764,7 @@
             },
             "duration": 230.34782608695653,
             "bpm": 125.43478260869566,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "cut",
@@ -9799,7 +9799,7 @@
             },
             "duration": 231.96774193548387,
             "bpm": 122.29032258064517,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "back",
@@ -9834,7 +9834,7 @@
             },
             "duration": 225.989417989418,
             "bpm": 118.34391534391534,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "y",
@@ -9869,7 +9869,7 @@
             },
             "duration": 214.06666666666666,
             "bpm": 119.4,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "dohdohdoh",
@@ -9888,7 +9888,7 @@
             },
             "duration": 270.0,
             "bpm": 115.0,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "sick",
@@ -9923,7 +9923,7 @@
             },
             "duration": 235.83333333333334,
             "bpm": 117.70833333333333,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "met",
@@ -9958,7 +9958,7 @@
             },
             "duration": 218.84615384615384,
             "bpm": 112.73076923076923,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "set",
@@ -9993,7 +9993,7 @@
             },
             "duration": 227.15625,
             "bpm": 118.375,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "learn",
@@ -10024,7 +10024,7 @@
             },
             "duration": 238.89473684210526,
             "bpm": 116.52631578947368,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "roll",
@@ -10059,7 +10059,7 @@
             },
             "duration": 230.46875,
             "bpm": 127.90625,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "calling",
@@ -10094,7 +10094,7 @@
             },
             "duration": 222.73684210526315,
             "bpm": 126.78947368421052,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "felt",
@@ -10129,7 +10129,7 @@
             },
             "duration": 222.27586206896552,
             "bpm": 118.3103448275862,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "bit",
@@ -10160,7 +10160,7 @@
             },
             "duration": 227.45454545454547,
             "bpm": 110.45454545454545,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "dark",
@@ -10195,7 +10195,7 @@
             },
             "duration": 230.89743589743588,
             "bpm": 118.76923076923077,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "picky",
@@ -10218,7 +10218,7 @@
             },
             "duration": 210.5,
             "bpm": 157.0,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "taking",
@@ -10249,7 +10249,7 @@
             },
             "duration": 212.34782608695653,
             "bpm": 115.52173913043478,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "broken",
@@ -10284,7 +10284,7 @@
             },
             "duration": 232.7058823529412,
             "bpm": 115.0,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "drop",
@@ -10315,7 +10315,7 @@
             },
             "duration": 231.37142857142857,
             "bpm": 115.62857142857143,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "taste",
@@ -10350,7 +10350,7 @@
             },
             "duration": 219.16666666666666,
             "bpm": 114.41666666666667,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "clear",
@@ -10385,7 +10385,7 @@
             },
             "duration": 232.05263157894737,
             "bpm": 129.3684210526316,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "saw",
@@ -10420,7 +10420,7 @@
             },
             "duration": 239.1315789473684,
             "bpm": 117.8157894736842,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "late",
@@ -10455,7 +10455,7 @@
             },
             "duration": 218.82608695652175,
             "bpm": 115.91304347826087,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "thinking",
@@ -10490,7 +10490,7 @@
             },
             "duration": 236.57575757575756,
             "bpm": 116.60606060606061,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "bottle",
@@ -10525,7 +10525,7 @@
             },
             "duration": 218.0952380952381,
             "bpm": 113.71428571428571,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "must",
@@ -10560,7 +10560,7 @@
             },
             "duration": 231.10714285714286,
             "bpm": 120.92857142857143,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "door",
@@ -10595,7 +10595,7 @@
             },
             "duration": 224.87234042553192,
             "bpm": 114.93617021276596,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "breathe",
@@ -10630,7 +10630,7 @@
             },
             "duration": 229.30434782608697,
             "bpm": 114.65217391304348,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "making",
@@ -10661,7 +10661,7 @@
             },
             "duration": 230.07407407407408,
             "bpm": 112.44444444444444,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "wake",
@@ -10696,7 +10696,7 @@
             },
             "duration": 217.74193548387098,
             "bpm": 116.61290322580645,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "papi",
@@ -10719,7 +10719,7 @@
             },
             "duration": 222.5,
             "bpm": 110.0,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "meet",
@@ -10754,7 +10754,7 @@
             },
             "duration": 229.48275862068965,
             "bpm": 120.93103448275862,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "foot",
@@ -10789,7 +10789,7 @@
             },
             "duration": 222.05405405405406,
             "bpm": 119.64864864864865,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "drippin",
@@ -10812,7 +10812,7 @@
             },
             "duration": 236.33333333333334,
             "bpm": 113.66666666666667,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "matter",
@@ -10847,7 +10847,7 @@
             },
             "duration": 231.25714285714287,
             "bpm": 125.22857142857143,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "trouble",
@@ -10878,7 +10878,7 @@
             },
             "duration": 240.8235294117647,
             "bpm": 123.23529411764706,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "cool",
@@ -10913,7 +10913,7 @@
             },
             "duration": 238.92592592592592,
             "bpm": 121.5925925925926,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "uhhuh",
@@ -10940,7 +10940,7 @@
             },
             "duration": 212.44444444444446,
             "bpm": 114.83333333333333,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "okay",
@@ -10975,7 +10975,7 @@
             },
             "duration": 230.4,
             "bpm": 114.775,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "sugar",
@@ -11002,7 +11002,7 @@
             },
             "duration": 217.25,
             "bpm": 125.125,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "lookin",
@@ -11033,7 +11033,7 @@
             },
             "duration": 227.26666666666668,
             "bpm": 108.2,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "red",
@@ -11068,7 +11068,7 @@
             },
             "duration": 233.12820512820514,
             "bpm": 122.82051282051282,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "promise",
@@ -11103,7 +11103,7 @@
             },
             "duration": 219.1875,
             "bpm": 119.75,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "nigga",
@@ -11138,7 +11138,7 @@
             },
             "duration": 239.96,
             "bpm": 117.32,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "hell",
@@ -11173,7 +11173,7 @@
             },
             "duration": 229.42857142857142,
             "bpm": 108.17857142857143,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "fun",
@@ -11208,7 +11208,7 @@
             },
             "duration": 224.66666666666666,
             "bpm": 114.29166666666667,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "dirty",
@@ -11235,7 +11235,7 @@
             },
             "duration": 215.45833333333334,
             "bpm": 121.79166666666667,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "nah",
@@ -11266,7 +11266,7 @@
             },
             "duration": 214.125,
             "bpm": 122.0,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "reason",
@@ -11301,7 +11301,7 @@
             },
             "duration": 229.0,
             "bpm": 115.53571428571429,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "loud",
@@ -11336,7 +11336,7 @@
             },
             "duration": 218.35,
             "bpm": 117.4,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "shot",
@@ -11367,7 +11367,7 @@
             },
             "duration": 225.33333333333334,
             "bpm": 118.66666666666667,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "summer",
@@ -11402,7 +11402,7 @@
             },
             "duration": 215.6315789473684,
             "bpm": 118.21052631578948,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "problem",
@@ -11433,7 +11433,7 @@
             },
             "duration": 215.0,
             "bpm": 114.92857142857143,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "clap",
@@ -11456,7 +11456,7 @@
             },
             "duration": 226.5,
             "bpm": 116.2,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "help",
@@ -11491,7 +11491,7 @@
             },
             "duration": 222.23076923076923,
             "bpm": 118.3076923076923,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "bang",
@@ -11518,7 +11518,7 @@
             },
             "duration": 222.07692307692307,
             "bpm": 134.0,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "easy",
@@ -11553,7 +11553,7 @@
             },
             "duration": 211.75,
             "bpm": 115.67857142857143,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "kissing",
@@ -11576,7 +11576,7 @@
             },
             "duration": 206.66666666666666,
             "bpm": 121.11111111111111,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "everyone",
@@ -11611,7 +11611,7 @@
             },
             "duration": 230.93333333333334,
             "bpm": 109.86666666666666,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "chance",
@@ -11646,7 +11646,7 @@
             },
             "duration": 233.86206896551724,
             "bpm": 109.75862068965517,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "number",
@@ -11673,7 +11673,7 @@
             },
             "duration": 233.3125,
             "bpm": 122.8125,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "seem",
@@ -11708,7 +11708,7 @@
             },
             "duration": 236.38095238095238,
             "bpm": 113.04761904761905,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "first",
@@ -11743,7 +11743,7 @@
             },
             "duration": 224.2127659574468,
             "bpm": 112.61702127659575,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "bed",
@@ -11778,7 +11778,7 @@
             },
             "duration": 221.4,
             "bpm": 111.71428571428571,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "stranger",
@@ -11813,7 +11813,7 @@
             },
             "duration": 223.4,
             "bpm": 116.7,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "round",
@@ -11844,7 +11844,7 @@
             },
             "duration": 229.91666666666666,
             "bpm": 116.375,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "shine",
@@ -11879,7 +11879,7 @@
             },
             "duration": 225.42857142857142,
             "bpm": 112.0,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "glass",
@@ -11914,7 +11914,7 @@
             },
             "duration": 238.25,
             "bpm": 123.125,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "till",
@@ -11949,7 +11949,7 @@
             },
             "duration": 235.95454545454547,
             "bpm": 117.36363636363636,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "pain",
@@ -11984,7 +11984,7 @@
             },
             "duration": 229.06666666666666,
             "bpm": 122.66666666666667,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "hide",
@@ -12019,7 +12019,7 @@
             },
             "duration": 232.8709677419355,
             "bpm": 119.87096774193549,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "blame",
@@ -12042,7 +12042,7 @@
             },
             "duration": 213.28571428571428,
             "bpm": 121.57142857142857,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "giving",
@@ -12077,7 +12077,7 @@
             },
             "duration": 222.77777777777777,
             "bpm": 119.11111111111111,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "water",
@@ -12112,7 +12112,7 @@
             },
             "duration": 236.28571428571428,
             "bpm": 117.28571428571429,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "dj",
@@ -12147,7 +12147,7 @@
             },
             "duration": 226.94736842105263,
             "bpm": 117.89473684210526,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "broke",
@@ -12182,7 +12182,7 @@
             },
             "duration": 235.96,
             "bpm": 105.56,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "edge",
@@ -12213,7 +12213,7 @@
             },
             "duration": 233.0,
             "bpm": 126.75,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "year",
@@ -12248,7 +12248,7 @@
             },
             "duration": 248.5,
             "bpm": 121.73076923076923,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "second",
@@ -12283,7 +12283,7 @@
             },
             "duration": 225.11111111111111,
             "bpm": 122.70370370370371,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "darling",
@@ -12318,7 +12318,7 @@
             },
             "duration": 221.0,
             "bpm": 120.06666666666666,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "simple",
@@ -12345,7 +12345,7 @@
             },
             "duration": 227.0,
             "bpm": 113.08333333333333,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "many",
@@ -12380,7 +12380,7 @@
             },
             "duration": 231.21428571428572,
             "bpm": 122.92857142857143,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "heard",
@@ -12415,7 +12415,7 @@
             },
             "duration": 224.13513513513513,
             "bpm": 114.1891891891892,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "lay",
@@ -12446,7 +12446,7 @@
             },
             "duration": 216.86666666666667,
             "bpm": 113.26666666666667,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "hair",
@@ -12481,7 +12481,7 @@
             },
             "duration": 239.73333333333332,
             "bpm": 116.03333333333333,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "worry",
@@ -12516,7 +12516,7 @@
             },
             "duration": 224.95454545454547,
             "bpm": 113.5909090909091,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "mi",
@@ -12547,7 +12547,7 @@
             },
             "duration": 227.26666666666668,
             "bpm": 115.0,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "kid",
@@ -12582,7 +12582,7 @@
             },
             "duration": 247.89473684210526,
             "bpm": 111.3157894736842,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "sexy",
@@ -12613,7 +12613,7 @@
             },
             "duration": 221.4375,
             "bpm": 120.9375,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "happy",
@@ -12648,7 +12648,7 @@
             },
             "duration": 220.69565217391303,
             "bpm": 126.21739130434783,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "slow",
@@ -12683,7 +12683,7 @@
             },
             "duration": 219.25,
             "bpm": 117.42857142857143,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "loca",
@@ -12706,7 +12706,7 @@
             },
             "duration": 225.5,
             "bpm": 102.0,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "ground",
@@ -12741,7 +12741,7 @@
             },
             "duration": 226.43478260869566,
             "bpm": 121.65217391304348,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "house",
@@ -12776,7 +12776,7 @@
             },
             "duration": 250.4090909090909,
             "bpm": 112.31818181818181,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "sound",
@@ -12811,7 +12811,7 @@
             },
             "duration": 237.71428571428572,
             "bpm": 128.14285714285714,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "drunk",
@@ -12846,7 +12846,7 @@
             },
             "duration": 218.93103448275863,
             "bpm": 114.20689655172414,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "cross",
@@ -12877,7 +12877,7 @@
             },
             "duration": 231.5,
             "bpm": 120.08333333333333,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "may",
@@ -12912,7 +12912,7 @@
             },
             "duration": 239.65217391304347,
             "bpm": 109.08695652173913,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "fear",
@@ -12947,7 +12947,7 @@
             },
             "duration": 229.44117647058823,
             "bpm": 122.61764705882354,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "loved",
@@ -12982,7 +12982,7 @@
             },
             "duration": 231.65217391304347,
             "bpm": 108.3913043478261,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "sleep",
@@ -13017,7 +13017,7 @@
             },
             "duration": 226.24242424242425,
             "bpm": 118.0909090909091,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "tried",
@@ -13052,7 +13052,7 @@
             },
             "duration": 232.33333333333334,
             "bpm": 113.76666666666667,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "throw",
@@ -13087,7 +13087,7 @@
             },
             "duration": 223.5,
             "bpm": 117.42307692307692,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "tomorrow",
@@ -13122,7 +13122,7 @@
             },
             "duration": 236.52631578947367,
             "bpm": 120.10526315789474,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "car",
@@ -13157,7 +13157,7 @@
             },
             "duration": 223.28571428571428,
             "bpm": 123.77142857142857,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "born",
@@ -13192,7 +13192,7 @@
             },
             "duration": 238.2941176470588,
             "bpm": 125.41176470588235,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "stand",
@@ -13227,7 +13227,7 @@
             },
             "duration": 228.7826086956522,
             "bpm": 112.78260869565217,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "castle",
@@ -13254,7 +13254,7 @@
             },
             "duration": 256.42857142857144,
             "bpm": 112.28571428571429,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "lady",
@@ -13289,7 +13289,7 @@
             },
             "duration": 220.06896551724137,
             "bpm": 112.34482758620689,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "ice",
@@ -13320,7 +13320,7 @@
             },
             "duration": 236.76470588235293,
             "bpm": 114.11764705882354,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "fine",
@@ -13355,7 +13355,7 @@
             },
             "duration": 223.68965517241378,
             "bpm": 113.13793103448276,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "city",
@@ -13390,7 +13390,7 @@
             },
             "duration": 228.41666666666666,
             "bpm": 114.625,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "fuckin",
@@ -13421,7 +13421,7 @@
             },
             "duration": 247.35714285714286,
             "bpm": 107.71428571428571,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "morning",
@@ -13456,7 +13456,7 @@
             },
             "duration": 221.96296296296296,
             "bpm": 115.0,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "ole",
@@ -13475,7 +13475,7 @@
             },
             "duration": 222.0,
             "bpm": 125.0,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "swear",
@@ -13510,7 +13510,7 @@
             },
             "duration": 238.68421052631578,
             "bpm": 128.94736842105263,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "freak",
@@ -13537,7 +13537,7 @@
             },
             "duration": 230.3846153846154,
             "bpm": 123.15384615384616,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "rest",
@@ -13572,7 +13572,7 @@
             },
             "duration": 231.61111111111111,
             "bpm": 117.22222222222223,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "guess",
@@ -13607,7 +13607,7 @@
             },
             "duration": 242.0,
             "bpm": 117.23684210526316,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "talking",
@@ -13642,7 +13642,7 @@
             },
             "duration": 220.52,
             "bpm": 121.24,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "arm",
@@ -13677,7 +13677,7 @@
             },
             "duration": 232.75862068965517,
             "bpm": 107.55172413793103,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "clapper",
@@ -13696,7 +13696,7 @@
             },
             "duration": 263.0,
             "bpm": 90.0,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "greatest",
@@ -13727,7 +13727,7 @@
             },
             "duration": 252.83333333333334,
             "bpm": 114.83333333333333,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "oohooh",
@@ -13754,7 +13754,7 @@
             },
             "duration": 219.5,
             "bpm": 118.5,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "control",
@@ -13789,7 +13789,7 @@
             },
             "duration": 224.59259259259258,
             "bpm": 114.70370370370371,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "story",
@@ -13824,7 +13824,7 @@
             },
             "duration": 223.16666666666666,
             "bpm": 121.55555555555556,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "gettin",
@@ -13859,7 +13859,7 @@
             },
             "duration": 228.0,
             "bpm": 123.74074074074075,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "bright",
@@ -13890,7 +13890,7 @@
             },
             "duration": 225.94736842105263,
             "bpm": 120.05263157894737,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "watching",
@@ -13925,7 +13925,7 @@
             },
             "duration": 239.41666666666666,
             "bpm": 119.79166666666667,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "blah",
@@ -13944,7 +13944,7 @@
             },
             "duration": 193.0,
             "bpm": 106.0,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "dollar",
@@ -13979,7 +13979,7 @@
             },
             "duration": 217.6,
             "bpm": 108.2,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "miss",
@@ -14014,7 +14014,7 @@
             },
             "duration": 225.2962962962963,
             "bpm": 116.07407407407408,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "jump",
@@ -14049,7 +14049,7 @@
             },
             "duration": 229.5909090909091,
             "bpm": 123.5909090909091,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "seen",
@@ -14084,7 +14084,7 @@
             },
             "duration": 241.0625,
             "bpm": 115.59375,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "different",
@@ -14119,7 +14119,7 @@
             },
             "duration": 219.5,
             "bpm": 113.73333333333333,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "memory",
@@ -14154,7 +14154,7 @@
             },
             "duration": 228.375,
             "bpm": 114.4375,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "focus",
@@ -14189,7 +14189,7 @@
             },
             "duration": 226.71428571428572,
             "bpm": 110.28571428571429,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "melody",
@@ -14216,7 +14216,7 @@
             },
             "duration": 223.875,
             "bpm": 109.625,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "white",
@@ -14251,7 +14251,7 @@
             },
             "duration": 233.41379310344828,
             "bpm": 119.89655172413794,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "smile",
@@ -14286,7 +14286,7 @@
             },
             "duration": 229.23076923076923,
             "bpm": 116.53846153846153,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "pop",
@@ -14317,7 +14317,7 @@
             },
             "duration": 220.54166666666666,
             "bpm": 121.16666666666667,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "black",
@@ -14352,7 +14352,7 @@
             },
             "duration": 240.88,
             "bpm": 120.76,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "movin",
@@ -14379,7 +14379,7 @@
             },
             "duration": 217.22222222222223,
             "bpm": 125.66666666666667,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "bar",
@@ -14414,7 +14414,7 @@
             },
             "duration": 230.52380952380952,
             "bpm": 119.71428571428571,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "gold",
@@ -14449,7 +14449,7 @@
             },
             "duration": 243.55882352941177,
             "bpm": 114.47058823529412,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "caught",
@@ -14484,7 +14484,7 @@
             },
             "duration": 230.05263157894737,
             "bpm": 113.89473684210526,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "few",
@@ -14507,7 +14507,7 @@
             },
             "duration": 232.125,
             "bpm": 105.75,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "space",
@@ -14542,7 +14542,7 @@
             },
             "duration": 221.76923076923077,
             "bpm": 115.53846153846153,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "dancin",
@@ -14577,7 +14577,7 @@
             },
             "duration": 218.06666666666666,
             "bpm": 117.33333333333333,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "wood",
@@ -14600,7 +14600,7 @@
             },
             "duration": 254.0,
             "bpm": 120.25,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "holding",
@@ -14635,7 +14635,7 @@
             },
             "duration": 220.33333333333334,
             "bpm": 124.33333333333333,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "marry",
@@ -14658,7 +14658,7 @@
             },
             "duration": 240.0,
             "bpm": 140.0,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "wanted",
@@ -14693,7 +14693,7 @@
             },
             "duration": 226.4090909090909,
             "bpm": 117.0909090909091,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "middle",
@@ -14728,7 +14728,7 @@
             },
             "duration": 216.55555555555554,
             "bpm": 126.05555555555556,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "knee",
@@ -14763,7 +14763,7 @@
             },
             "duration": 229.74074074074073,
             "bpm": 122.77777777777777,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "hello",
@@ -14794,7 +14794,7 @@
             },
             "duration": 230.63636363636363,
             "bpm": 114.63636363636364,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "fake",
@@ -14829,7 +14829,7 @@
             },
             "duration": 237.13333333333333,
             "bpm": 121.93333333333334,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "part",
@@ -14864,7 +14864,7 @@
             },
             "duration": 238.66666666666666,
             "bpm": 120.88888888888889,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "mess",
@@ -14899,7 +14899,7 @@
             },
             "duration": 224.04347826086956,
             "bpm": 130.91304347826087,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "turned",
@@ -14930,7 +14930,7 @@
             },
             "duration": 231.16666666666666,
             "bpm": 109.94444444444444,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "rise",
@@ -14965,7 +14965,7 @@
             },
             "duration": 219.2941176470588,
             "bpm": 118.94117647058823,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "empty",
@@ -15000,7 +15000,7 @@
             },
             "duration": 234.88888888888889,
             "bpm": 117.33333333333333,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "afraid",
@@ -15035,7 +15035,7 @@
             },
             "duration": 227.16,
             "bpm": 126.56,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "skin",
@@ -15070,7 +15070,7 @@
             },
             "duration": 223.4814814814815,
             "bpm": 121.62962962962963,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "wind",
@@ -15105,7 +15105,7 @@
             },
             "duration": 230.45454545454547,
             "bpm": 117.5,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "standing",
@@ -15140,7 +15140,7 @@
             },
             "duration": 222.76,
             "bpm": 119.44,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "trust",
@@ -15175,7 +15175,7 @@
             },
             "duration": 220.47826086956522,
             "bpm": 113.91304347826087,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "road",
@@ -15210,7 +15210,7 @@
             },
             "duration": 224.1818181818182,
             "bpm": 115.9090909090909,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "crowd",
@@ -15241,7 +15241,7 @@
             },
             "duration": 231.61111111111111,
             "bpm": 114.0,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "full",
@@ -15276,7 +15276,7 @@
             },
             "duration": 231.15,
             "bpm": 124.05,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "kick",
@@ -15307,7 +15307,7 @@
             },
             "duration": 217.5,
             "bpm": 123.28571428571429,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "tired",
@@ -15342,7 +15342,7 @@
             },
             "duration": 222.29166666666666,
             "bpm": 122.45833333333333,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "pull",
@@ -15377,7 +15377,7 @@
             },
             "duration": 244.3448275862069,
             "bpm": 112.20689655172414,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "yours",
@@ -15412,7 +15412,7 @@
             },
             "duration": 224.0,
             "bpm": 118.0,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "bringing",
@@ -15447,7 +15447,7 @@
             },
             "duration": 228.11111111111111,
             "bpm": 116.33333333333333,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "\u2014",
@@ -15478,7 +15478,7 @@
             },
             "duration": 223.0909090909091,
             "bpm": 113.27272727272727,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "carry",
@@ -15513,7 +15513,7 @@
             },
             "duration": 232.5,
             "bpm": 121.125,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "save",
@@ -15548,7 +15548,7 @@
             },
             "duration": 236.08695652173913,
             "bpm": 116.17391304347827,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "gave",
@@ -15583,7 +15583,7 @@
             },
             "duration": 232.46153846153845,
             "bpm": 118.38461538461539,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "american",
@@ -15610,7 +15610,7 @@
             },
             "duration": 240.4,
             "bpm": 115.2,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "nananana",
@@ -15633,7 +15633,7 @@
             },
             "duration": 244.5,
             "bpm": 104.0,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "outta",
@@ -15660,7 +15660,7 @@
             },
             "duration": 235.88888888888889,
             "bpm": 126.0,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "check",
@@ -15695,7 +15695,7 @@
             },
             "duration": 231.3125,
             "bpm": 117.625,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "plan",
@@ -15730,7 +15730,7 @@
             },
             "duration": 221.125,
             "bpm": 112.0,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "ask",
@@ -15765,7 +15765,7 @@
             },
             "duration": 230.28,
             "bpm": 119.48,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "woman",
@@ -15796,7 +15796,7 @@
             },
             "duration": 240.30434782608697,
             "bpm": 119.1304347826087,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "known",
@@ -15831,7 +15831,7 @@
             },
             "duration": 219.64705882352942,
             "bpm": 120.52941176470588,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "harder",
@@ -15854,7 +15854,7 @@
             },
             "duration": 220.6,
             "bpm": 113.3,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "honey",
@@ -15889,7 +15889,7 @@
             },
             "duration": 231.56521739130434,
             "bpm": 117.26086956521739,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "stuck",
@@ -15924,7 +15924,7 @@
             },
             "duration": 226.4090909090909,
             "bpm": 116.36363636363636,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "mouth",
@@ -15959,7 +15959,7 @@
             },
             "duration": 229.0,
             "bpm": 119.68181818181819,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "today",
@@ -15994,7 +15994,7 @@
             },
             "duration": 217.2941176470588,
             "bpm": 112.88235294117646,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "cloud",
@@ -16029,7 +16029,7 @@
             },
             "duration": 235.0,
             "bpm": 118.94117647058823,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "un",
@@ -16064,7 +16064,7 @@
             },
             "duration": 207.5,
             "bpm": 110.25,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "el",
@@ -16095,7 +16095,7 @@
             },
             "duration": 221.33333333333334,
             "bpm": 118.41666666666667,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "angel",
@@ -16126,7 +16126,7 @@
             },
             "duration": 229.53333333333333,
             "bpm": 117.8,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "went",
@@ -16161,7 +16161,7 @@
             },
             "duration": 221.2173913043478,
             "bpm": 113.8695652173913,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "stone",
@@ -16196,7 +16196,7 @@
             },
             "duration": 253.25,
             "bpm": 114.75,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "te",
@@ -16223,7 +16223,7 @@
             },
             "duration": 208.7,
             "bpm": 120.5,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "secret",
@@ -16258,7 +16258,7 @@
             },
             "duration": 225.2,
             "bpm": 118.85,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "scared",
@@ -16293,7 +16293,7 @@
             },
             "duration": 240.92,
             "bpm": 122.24,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "flame",
@@ -16328,7 +16328,7 @@
             },
             "duration": 231.1304347826087,
             "bpm": 117.34782608695652,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "lead",
@@ -16363,7 +16363,7 @@
             },
             "duration": 233.57142857142858,
             "bpm": 118.14285714285714,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "wine",
@@ -16398,7 +16398,7 @@
             },
             "duration": 257.8181818181818,
             "bpm": 111.81818181818181,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "rockabye",
@@ -16417,7 +16417,7 @@
             },
             "duration": 251.0,
             "bpm": 102.0,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "ohohohoh",
@@ -16448,7 +16448,7 @@
             },
             "duration": 242.1818181818182,
             "bpm": 115.72727272727273,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "step",
@@ -16475,7 +16475,7 @@
             },
             "duration": 236.66666666666666,
             "bpm": 114.14285714285714,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "dangerous",
@@ -16502,7 +16502,7 @@
             },
             "duration": 238.54545454545453,
             "bpm": 120.72727272727273,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "missing",
@@ -16537,7 +16537,7 @@
             },
             "duration": 221.42857142857142,
             "bpm": 108.28571428571429,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "send",
@@ -16572,7 +16572,7 @@
             },
             "duration": 213.7,
             "bpm": 134.5,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "act",
@@ -16607,7 +16607,7 @@
             },
             "duration": 228.31578947368422,
             "bpm": 129.73684210526315,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "count",
@@ -16642,7 +16642,7 @@
             },
             "duration": 255.08333333333334,
             "bpm": 118.33333333333333,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "phone",
@@ -16677,7 +16677,7 @@
             },
             "duration": 215.95652173913044,
             "bpm": 120.17391304347827,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "street",
@@ -16712,7 +16712,7 @@
             },
             "duration": 228.77272727272728,
             "bpm": 113.0909090909091,
-            "category": ""
+            "category": "NOUN"
         },
         {
             "word": "nana",
@@ -16735,7 +16735,7 @@
             },
             "duration": 226.0,
             "bpm": 101.0,
-            "category": ""
+            "category": "ADJ"
         },
         {
             "word": "burning",
@@ -16770,7 +16770,7 @@
             },
             "duration": 226.5,
             "bpm": 111.66666666666667,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "lift",
@@ -16801,7 +16801,7 @@
             },
             "duration": 221.11111111111111,
             "bpm": 105.22222222222223,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "needed",
@@ -16832,7 +16832,7 @@
             },
             "duration": 199.41666666666666,
             "bpm": 108.58333333333333,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "meant",
@@ -16863,7 +16863,7 @@
             },
             "duration": 230.75,
             "bpm": 120.3,
-            "category": ""
+            "category": "VERB"
         },
         {
             "word": "stronger",
@@ -16890,7 +16890,7 @@
             },
             "duration": 230.42857142857142,
             "bpm": 113.28571428571429,
-            "category": ""
+            "category": "ADJ"
         }
     ]
 }
