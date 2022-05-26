@@ -4,7 +4,7 @@
 */
 
 
-import { dataset } from './config.js';
+import { dataset, colors } from './config.js';
 import { makeBarplot, makeRadarplot, moodScore } from './details.js';
 
 function handleControlPanelClick(classname) {
@@ -27,8 +27,22 @@ function handleControlPanelClick(classname) {
                         smallMultiples.setAttribute('style', 'display: grid');
                     }
                 }
-                else if (elem.classList == classname) { elem.classList.add('active'); }
-                else { elem.classList.remove('active'); }
+                else if (elem.classList == classname) {
+                    elem.classList.contains('active-2') ?
+                        elem.classList.add('active') :
+                        elem.classList.add('active-2');
+                    d3.selectAll(`${colors[elem.children[1].innerHTML]}`)
+                        .raise()
+                        .style("opacity", 0);
+                }
+                else {
+                    elem.classList.contains('active-2') ?
+                        elem.classList.remove('active-2') :
+                        elem.classList.remove('active');
+                    d3.selectAll(`${colors[elem.children[1].innerHTML]}`)
+                        .style("opacity", 1)
+                        .attr("pointer-events", 'none')
+                }
             }
         )
     }

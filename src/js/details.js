@@ -18,10 +18,8 @@ function makeBarplot(data) {
         .attr("transform", `translate(${margin.left}, ${margin.top})`);
 
     const x = d3.scaleLinear()
-        .domain([0, d3.max(data['top-genres'], (genre) => {
-            return d3.max(genre.slice(1))
-        })])
-        .range([0, width]);
+        .domain([0, 1])
+        .range([0, width - 50]);
     barplot.append("g")
         .attr("transform", `translate(0, ${height})`)
         .call(d3.axisBottom(x))

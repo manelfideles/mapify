@@ -82,8 +82,8 @@ const wordcloudConfig = {
 const barplotMargin = { top: 20, right: 20, bottom: 50, left: 90 };
 const barplotConfig = {
     'margin': barplotMargin,
-    'width': 400 - barplotMargin.left - barplotMargin.right,
-    'height': 200 - barplotMargin.top - barplotMargin.bottom
+    'width': 350 - barplotMargin.left - barplotMargin.right,
+    'height': 250 - barplotMargin.top - barplotMargin.bottom
 }
 
 const radarplotMargin = { top: 20, right: 20, bottom: 20, left: 20 };
@@ -110,5 +110,5 @@ export {
     radarplotConfig,
     xMax, xMin,
     yMax, yMin,
-    getFile
+    getFile, colors
 }

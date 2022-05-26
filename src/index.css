@@ -1,10 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100;200;300;400;500;600;700&display=swap');
 
+/* .radar-plot,
+.bar-plot,
+.mood-score {
+    border: 2px solid red;
+} */
+
 body {
     font-family: 'Roboto Mono', monospace;
     font-weight: 300;
     margin: 0;
-    overflow-x: hidden;
 }
 
 .controls-container {
@@ -46,6 +51,11 @@ body {
 
 .active {
     text-decoration: underline;
+    font-weight: normal;
+}
+
+.active-2 {
+    text-decoration: line-through;
     font-weight: normal;
 }
 
@@ -165,6 +175,7 @@ main {
     padding-right: 2em;
     margin-bottom: 2em;
     overflow-y: scroll;
+    overflow-x: hidden;
     height: 350px;
 }
 
@@ -238,10 +249,9 @@ main {
 .small-multiples-container {
     justify-content: space-between;
     display: grid;
-    gap: 10px;
+    gap: 20px;
     grid-template-columns: repeat(3, 1fr);
-    margin-bottom: 10em;
-    margin-top: 2em;
+    margin: 2em 2em 10em 0;
 }
 
 .small-multiples-viz {

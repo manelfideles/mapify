@@ -22,7 +22,6 @@ for (let i = 2010; i <= 2019; i++)
     makeScatterplot(i.toString())
 
 // Wordcloud
-// append the svg object to the wordcloud-viz object
 var svg = d3.select('.wordcloud-viz').append('svg')
     .attr('width', width + margin.left + margin.right)
     .attr('height', height + margin.top + margin.bottom)
@@ -61,8 +60,8 @@ function draw(words) {
         .selectAll("text")
         .data(words)
         .enter().append("text")
-        .style("font-size", d => d.size)
-        .style("fill", d => d.color)
+        .style('font-size', d => d.size)
+        .style('fill', d => d.color)
         .style('cursor', 'pointer')
         .on('mouseover', (event, d) => {
             d3.select(event.target).style('font-weight', 'bold');
@@ -77,6 +76,7 @@ function draw(words) {
             console.log(d);
         }) */
         .attr("text-anchor", "middle")
+        .attr('id', d => d.color.substring(1))
         .attr("transform", d => {
             return "translate(" + [
                 scalex(d.xpos) - width / 2,
