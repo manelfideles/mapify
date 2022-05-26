@@ -1,5 +1,7 @@
 import {
-    xMax, xMin, yMax, yMin, getFile, wordcloudConfig
+    xMax, xMin, yMax,
+    yMin, getFile,
+    wordcloudConfig
 } from './config.js';
 
 async function makeScatterplot(year) {

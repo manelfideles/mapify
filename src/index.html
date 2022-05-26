@@ -25,9 +25,16 @@
 
 <body>
 
-    <!-- <div class="explanation"></div> -->
+    <div class="explanation">
+        <h1 class="title">Mapify</h1>
+        <h3 class="subtitle">A wordcloud visualization of Spotify's most streamed songs.</h3>
+        <button class="next-btn">
+            <span>Next</span>
+            <img src="../assets/back-arrow.svg" alt="next">
+        </button>
+    </div>
 
-    <div class='controls-container'>
+    <div class='controls-container' style='display: none;'>
         <div class='controls'>
             <div class='categories-title'>
                 <div class='help'>
@@ -65,7 +72,7 @@
         </div>
     </div>
 
-    <main>
+    <main style='display: none;'>
         <div class='wordcloud-viz'></div>
         <div class='details' style='display: none;'>
             <div class='back-btn'>

@@ -5,7 +5,8 @@ import {
 import {
     handleControlPanelClick,
     handleWordClick,
-    handleBackBtnClick
+    handleBackBtnClick,
+    handleNextClick
 } from './listeners.js';
 
 import { makeScatterplot } from './scatterplot.js';
@@ -169,4 +170,5 @@ d3.csv("https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/ir
 window.addEventListener('load', () => { handleControlPanelClick('category'); console.log('Loaded category control panel click listener!'); });
 window.addEventListener('load', () => { handleControlPanelClick('option'); console.log('Loaded option control panel click listener!'); });
 window.addEventListener('load', () => { handleWordClick('wordcloud-viz'); console.log('Loaded word click listener!'); });
+document.querySelector('.next-btn').addEventListener('click', handleNextClick);
 document.querySelector('.back-btn').addEventListener('click', handleBackBtnClick);

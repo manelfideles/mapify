@@ -78,8 +78,22 @@ function handleBackBtnClick(event) {
     }
 }
 
+function handleNextClick() {
+
+    console.log('Clicked next btn');
+
+    const home = document.querySelector('.explanation');
+    const controls = document.querySelector('.controls-container');
+    const wordcloud = document.querySelector('main');
+
+    home.setAttribute('style', 'display: none');
+    controls.setAttribute('style', 'display: flex');
+    wordcloud.setAttribute('style', 'display: flex');
+}
+
 export {
     handleControlPanelClick,
     handleWordClick,
-    handleBackBtnClick
+    handleBackBtnClick,
+    handleNextClick
 };
